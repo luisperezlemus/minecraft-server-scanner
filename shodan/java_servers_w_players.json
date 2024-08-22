@@ -1,0 +1,678 @@
+[
+    {
+        "ip": "185.135.158.15",
+        "port": 25565,
+        "version": "1.20.80 Survival\u00a7r\u00a77 | \u00a7r\u00a75\u00a7lMay \u00a7r\u00a74\u00a7lthe\u00a7r\u00a75\u00a7l 4th\u00a7r\u00a77 | \u00a7r\u00a7cFriendly (MCPE)",
+        "players": "1 / 500",
+        "gamemode": "Survival",
+        "motd": "\u00a7r\u00a7d                \u00a7lThe Crown\u00a7r\u00a77 | \u00a7r\u00a7d[1.17-1.20.5]",
+        "player_list": null,
+        "latency": 0,
+        "country": "US",
+        "city": "Ashburn"
+    },
+    {
+        "ip": "158.179.213.96",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server\n\u00a79 hosted on PufferPanel",
+        "player_list": null,
+        "latency": 305,
+        "country": "ES",
+        "city": "Madrid"
+    },
+    {
+        "ip": "126.88.225.7",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "3 / 200",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [{\"text\": \"\\u3074\", \"color\": \"black\"}, {\"text\": \"\\u3087\", \"color\": \"dark_blue\"}, {\"text\": \"\\u3093\", \"color\": \"dark_green\"}, {\"text\": \"\\u3061\", \"color\": \"dark_aqua\"}, {\"text\": \"\\u3087\", \"color\": \"dark_red\"}, {\"text\": \"\\u3053\", \"color\": \"dark_purple\"}, {\"text\": \"\\u3077\", \"color\": \"gold\"}, {\"text\": \"\\u3093\", \"color\": \"gray\"}, {\"text\": \"\\u3064\", \"color\": \"dark_gray\"}, {\"text\": \"\\u3093\", \"color\": \"blue\"}, {\"text\": \"\\u30b5\", \"color\": \"green\"}, {\"text\": \"\\u30fc\", \"color\": \"aqua\"}, {\"text\": \"\\u30d0\", \"color\": \"red\"}, {\"text\": \"\\u30fc\\n\", \"color\": \"light_purple\"}, {\"text\": \"Version  \", \"color\": \"yellow\"}, {\"text\": \"--1.20.6--\", \"color\": \"blue\"}]}",
+        "player_list": [
+            "Anonymous Player",
+            "Anonymous Player",
+            "Anonymous Player"
+        ],
+        "latency": 186,
+        "country": "JP",
+        "city": "Yamagata"
+    },
+    {
+        "ip": "169.150.219.213",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": ":>",
+        "player_list": [
+            "a_bloo"
+        ],
+        "latency": 101,
+        "country": "CA",
+        "city": "Toronto"
+    },
+    {
+        "ip": "14.225.212.4",
+        "port": 25565,
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "players": "1 / 50",
+        "gamemode": null,
+        "motd": "\u00a7f\u00a7f",
+        "player_list": null,
+        "latency": 307,
+        "country": "VN",
+        "city": "Ho Chi Minh City"
+    },
+    {
+        "ip": "72.5.47.51",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "5 / 100",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"#00C1FF\", \"extra\": [{\"color\": \"#00A9FF\", \"extra\": [{\"color\": \"#0091FF\", \"extra\": [{\"color\": \"#0079FF\", \"extra\": [{\"color\": \"#0060FF\", \"extra\": [{\"color\": \"#0048FF\", \"extra\": [{\"color\": \"#0030FF\", \"extra\": [{\"color\": \"white\", \"extra\": [{\"color\": \"#232929\", \"extra\": [{\"color\": \"#5F5F5F\", \"extra\": [{\"color\": \"#FFBA00\", \"extra\": [{\"color\": \"#F4B200\", \"extra\": [{\"color\": \"#E9AA01\", \"extra\": [{\"color\": \"#DEA201\", \"extra\": [{\"color\": \"#D49B02\", \"extra\": [{\"color\": \"#C99302\", \"extra\": [{\"color\": \"#BE8B02\", \"extra\": [{\"color\": \"#B38303\", \"extra\": [{\"color\": \"#A87B03\", \"extra\": [{\"color\": \"#9D7303\", \"extra\": [{\"color\": \"#936C04\", \"extra\": [{\"color\": \"#886404\", \"extra\": [{\"color\": \"#7D5C05\", \"extra\": [{\"color\": \"#725405\", \"extra\": [{\"color\": \"#232929\", \"extra\": [{\"color\": \"#2DFF00\", \"extra\": [{\"color\": \"#29EF02\", \"extra\": [{\"color\": \"#24E005\", \"extra\": [{\"color\": \"#20D007\", \"extra\": [{\"color\": \"#1BC009\", \"extra\": [{\"color\": \"#17B10C\", \"extra\": [{\"color\": \"#12A10E\", \"extra\": [{\"color\": \"#0E9110\", \"extra\": [{\"color\": \"#098213\", \"extra\": [{\"color\": \"#057215\", \"text\": \"a\"}], \"text\": \"r\"}], \"text\": \"u\"}], \"text\": \"t\"}], \"text\": \"r\"}], \"text\": \"e\"}], \"text\": \"p\"}], \"text\": \"a\"}], \"text\": \"e\"}], \"text\": \"R\"}], \"text\": \"| \"}], \"text\": \"m \"}], \"text\": \"o\"}], \"text\": \"t\"}], \"text\": \"s\"}], \"text\": \"u\"}], \"text\": \"C\"}], \"text\": \"l \"}], \"text\": \"a\"}], \"text\": \"v\"}], \"text\": \"i\"}], \"text\": \"v\"}], \"text\": \"r\"}], \"text\": \"u\"}], \"text\": \"S\"}], \"text\": \"[1.16.5 - 1.20.4] \\n              \"}], \"text\": \"-> \"}], \"text\": \"Network \"}], \"text\": \"s \"}], \"text\": \"u\"}], \"text\": \"d\"}], \"text\": \"o\"}], \"text\": \"x\"}], \"text\": \"e\"}], \"text\": \"H\"}], \"text\": \"          \"}",
+        "player_list": [],
+        "latency": 59,
+        "country": "US",
+        "city": "Los Angeles"
+    },
+    {
+        "ip": "115.125.147.84",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": [
+            "Chii0651"
+        ],
+        "latency": 180,
+        "country": "JP",
+        "city": "Kawasaki"
+    },
+    {
+        "ip": "38.103.171.68",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "2 / 250",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [{\"text\": \"\", \"extra\": [{\"text\": \"M\", \"color\": \"#d9b20a\"}, {\"text\": \"A\", \"color\": \"#daa50f\"}, {\"text\": \"N\", \"color\": \"#da9814\"}, {\"text\": \"G\", \"color\": \"#db8b18\"}, {\"text\": \"O\", \"color\": \"#db7e1d\"}, {\"text\": \" \", \"color\": \"#dc7022\"}, {\"text\": \"M\", \"color\": \"#dc6327\"}, {\"text\": \"A\", \"color\": \"#dd562b\"}, {\"text\": \"D\", \"color\": \"#dd4930\"}, {\"text\": \"\", \"extra\": [{\"text\": \"N\", \"color\": \"#dd4930\"}, {\"text\": \"E\", \"color\": \"#de4132\"}, {\"text\": \"S\", \"color\": \"#df3935\"}, {\"text\": \"S\", \"color\": \"#df3137\"}, {\"text\": \" \", \"color\": \"#e02939\"}, {\"text\": \"2\", \"color\": \"#e1203c\"}, {\"text\": \"0\", \"color\": \"#e2183e\"}, {\"text\": \"2\", \"color\": \"#e21040\"}, {\"text\": \"4\", \"color\": \"#e30843\"}, {\"text\": \"!\", \"color\": \"#e40045\"}]}], \"bold\": true}, {\"text\": \"\\n\", \"extra\": [{\"text\": \"M\", \"color\": \"#d9b20a\"}, {\"text\": \"o\", \"color\": \"#d9a90d\"}, {\"text\": \"r\", \"color\": \"#daa110\"}, {\"text\": \"e\", \"color\": \"#da9814\"}, {\"text\": \" \", \"color\": \"#da8f17\"}, {\"text\": \"i\", \"color\": \"#db861a\"}, {\"text\": \"n\", \"color\": \"#db7e1d\"}, {\"text\": \"f\", \"color\": \"#db7520\"}, {\"text\": \"o\", \"color\": \"#dc6c23\"}, {\"text\": \" \", \"color\": \"#dc6327\"}, {\"text\": \"a\", \"color\": \"#dc5b2a\"}, {\"text\": \"t\", \"color\": \"#dd522d\"}, {\"text\": \" \", \"color\": \"#dd4930\"}]}, {\"text\": \"\", \"extra\": [{\"text\": \"A\", \"color\": \"#dd4930\"}, {\"text\": \"a\", \"color\": \"#de4332\"}, {\"text\": \"r\", \"color\": \"#de3e33\"}, {\"text\": \"d\", \"color\": \"#df3835\"}, {\"text\": \"v\", \"color\": \"#df3336\"}, {\"text\": \"a\", \"color\": \"#e02d38\"}, {\"text\": \"r\", \"color\": \"#e0273a\"}, {\"text\": \"k\", \"color\": \"#e1223b\"}, {\"text\": \"M\", \"color\": \"#e11c3d\"}, {\"text\": \"C\", \"color\": \"#e2163f\"}, {\"text\": \".\", \"color\": \"#e21140\"}, {\"text\": \"o\", \"color\": \"#e30b42\"}, {\"text\": \"r\", \"color\": \"#e30643\"}, {\"text\": \"g\", \"color\": \"#e40045\"}]}]}",
+        "player_list": [
+            "Sevelovesyou",
+            "Seve_us"
+        ],
+        "latency": 89,
+        "country": "US",
+        "city": "Portland"
+    },
+    {
+        "ip": "209.222.97.107",
+        "port": 25565,
+        "version": "Paper 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
+        "players": "378 / 1000",
+        "gamemode": null,
+        "motd": "{\"text\": \"\\u00a75\\u00a7m                 \\u00a7d>\\u00a77\\u00a7l\\u00a7d\\u00a7l>\\u00a7d\\u00a7l[\\u00a75\\u00a7l PURPLE \\u00a7d\\u00a7lPRISON \\u00a7d\\u00a7l]\\u00a7d\\u00a7l<\\u00a7d<\\u00a75\\u00a7m                  \\u00a7R \\u00a77                \\u00a75\\u2764\\u00a7d\\u2764\\u00a75\\u2764 \\u00a7f\\u00a7lDISCORD.GG/PP \\u00a75\\u2764\\u00a7d\\u2764\\u00a75\\u2764\"}",
+        "player_list": [
+            "\u00a77",
+            "\u00a77Welcome to \u00a75\u00a7lPURPLE \u00a7d\u00a7lPRISON\u00a77!",
+            "",
+            "\u00a7f\u2726 \u00a79\u00a7lDISCORD: \u00a7fdiscord.gg/pp",
+            "\u00a7f\u2726 \u00a7d\u00a7lWEBSITE: \u00a7fpurpleprison.co",
+            "\u00a7f\u2726 \u00a75\u00a7lSTORE: \u00a7fbuy.purpleprison.net",
+            ""
+        ],
+        "latency": 106,
+        "country": "US",
+        "city": "Miami"
+    },
+    {
+        "ip": "70.160.148.98",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "Welcome to the Crossover Episode",
+        "player_list": [
+            "PapaPillsbury"
+        ],
+        "latency": 138,
+        "country": "US",
+        "city": "Norfolk"
+    },
+    {
+        "ip": "162.43.55.192",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "SAAAAAAABAAAAAAAAAA",
+        "player_list": [
+            "Remons1222"
+        ],
+        "latency": 188,
+        "country": "JP",
+        "city": "Osaka"
+    },
+    {
+        "ip": "103.195.102.228",
+        "port": 25565,
+        "version": "1.21.2 \u00a7r\u00a7a\u00a7lJAVA \u00a7r\u00a7f[1.16-1.20.x] \u00a7r\u00a78\u00a7l| \u00a7r\u00a76\u00a7lBEDROCK (MCPE)",
+        "players": "4 / 300",
+        "gamemode": "Survival",
+        "motd": "\u00a7r\u00a7b\u00a7lSEA\u00a7r\u00a79\u00a7lREALM \u00a7r\u00a7f\u00a7lNETWORK",
+        "player_list": null,
+        "latency": 0,
+        "country": "US",
+        "city": "Miami"
+    },
+    {
+        "ip": "172.93.106.100",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "21 / 500",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"gray\", \"extra\": [{\"color\": \"red\", \"extra\": [{\"color\": \"gray\", \"text\": \"-- \"}], \"text\": \"-\"}], \"text\": \"--\"}, \"[ \", {\"bold\": true, \"extra\": [{\"color\": \"#FF4545\", \"text\": \"Robblestone Network \"}], \"text\": \"\"}, \"] \", {\"color\": \"gray\", \"extra\": [{\"color\": \"red\", \"extra\": [{\"color\": \"gray\", \"extra\": [{\"color\": \"red\", \"extra\": [{\"color\": \"gray\", \"extra\": [{\"color\": \"gold\", \"extra\": [{\"color\": \"gray\", \"extra\": [{\"color\": \"aqua\", \"extra\": [{\"color\": \"gray\", \"text\": \"]\"}], \"text\": \"s\\u1d0b\\u028f\\u0299\\u029f\\u1d0f\\u1d04\\u1d0b \\u026a \"}], \"text\": \"] [ \"}], \"text\": \"\\u0493\\u1d00\\u1d04\\u1d1b\\u026a\\u1d0f\\u0274s x\\u026a \"}], \"text\": \"] [ \"}], \"text\": \"\\u029f\\u026a\\u0493\\u1d07s\\u1d1b\\u1d07\\u1d00\\u029f \\u026a\\u1d20 \"}], \"text\": \"-- \\n    [ \"}], \"text\": \"-\"}], \"text\": \"--\"}], \"text\": \"       \"}",
+        "player_list": [],
+        "latency": 105,
+        "country": "US",
+        "city": "Piscataway"
+    },
+    {
+        "ip": "65.110.45.90",
+        "port": 25565,
+        "version": "1.21",
+        "players": "5 / 70",
+        "gamemode": null,
+        "motd": "\u00a73\u00a7l[1.21]\u00a76\u00a7l Townscraft Season 3\u00a7r\n\u00a77=||= The Town-Based SMP =||=",
+        "player_list": [
+            "_Tokay",
+            "Melinoooe",
+            "TG_archie",
+            "bad_gamer",
+            "utter_lunacy"
+        ],
+        "latency": 102,
+        "country": "US",
+        "city": "Secaucus"
+    },
+    {
+        "ip": "218.161.51.63",
+        "port": 25565,
+        "version": "1.21",
+        "players": "2 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": [
+            "Toresube",
+            "Sarudisu"
+        ],
+        "latency": 194,
+        "country": "TW",
+        "city": "Taoyuan City"
+    },
+    {
+        "ip": "51.161.196.147",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "1285 / 5000",
+        "gamemode": null,
+        "motd": " \u00a7b\u00a7m---------\u00a78\u00a7l[-  \u00a7f\u00a7lCOMPLEX  \u00a7b\u00a7lGAMING  \u00a78\u00a7l-]\u00a7b\u00a7l\u00a7m--------\u00a7r",
+        "player_list": null,
+        "latency": 307,
+        "country": "AU",
+        "city": "Sydney"
+    },
+    {
+        "ip": "49.12.214.120",
+        "port": 25565,
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "players": "199 / 10000",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"yellow\", \"text\": \"GommeHD\"}, {\"color\": \"gray\", \"text\": \".\"}, {\"color\": \"yellow\", \"text\": \"net \"}, {\"color\": \"gray\", \"text\": \"- \"}, {\"color\": \"aqua\", \"text\": \"GommeHD Network\"}, {\"color\": \"gray\", \"text\": \" - \"}, {\"color\": \"white\", \"text\": \"[\"}, {\"color\": \"light_purple\", \"text\": \"1.8\"}, {\"color\": \"white\", \"text\": \"-\"}, {\"color\": \"light_purple\", \"text\": \"1.21\"}, {\"color\": \"white\", \"text\": \"]\\n\"}, {\"bold\": true, \"color\": \"red\", \"text\": \"BEDWARS \"}, {\"bold\": true, \"color\": \"aqua\", \"text\": \"UPDATE \"}, {\"color\": \"gray\", \"text\": \"+ \"}, {\"bold\": true, \"color\": \"gold\", \"text\": \"MONEYMAKER \"}, {\"bold\": true, \"color\": \"aqua\", \"text\": \"EVENT\"}], \"text\": \"\"}",
+        "player_list": null,
+        "latency": 193,
+        "country": "DE",
+        "city": "Falkenstein"
+    },
+    {
+        "ip": "160.251.174.83",
+        "port": 25565,
+        "version": "1.21.20 Another Geyser server. (MCPE)",
+        "players": "1 / 12",
+        "gamemode": "Survival",
+        "motd": "A Minecraft Server",
+        "player_list": null,
+        "latency": 0,
+        "country": "JP",
+        "city": "Tokyo"
+    },
+    {
+        "ip": "109.199.121.43",
+        "port": 25565,
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "players": "3 / 200",
+        "gamemode": null,
+        "motd": "\u00a7l   \u00a7f  \u00a7ki\u00a7f \u00a7e\u00a7lIbero\u00a7c\u00a7lCraft\u00a7c \u00a7b\u00a7lNetwork\u00a7b \u00a7a[1.8-1.21]\u00a7b\u00a7l \u00a7f\u00a7ki\u00a7f  \u00a7r",
+        "player_list": null,
+        "latency": 207,
+        "country": "DE",
+        "city": "D\u00fcsseldorf"
+    },
+    {
+        "ip": "123.16.57.92",
+        "port": 25565,
+        "version": "1.21",
+        "players": "2 / 24",
+        "gamemode": null,
+        "motd": "silly goobers",
+        "player_list": [
+            "Snowobewwy",
+            "Botanxd"
+        ],
+        "latency": 251,
+        "country": "VN",
+        "city": "Hanoi"
+    },
+    {
+        "ip": "209.222.98.16",
+        "port": 25565,
+        "version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
+        "players": "66 / 500",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"white\", \"text\": \"    \"}, {\"color\": \"#168ae4\", \"text\": \"\\u25cb\"}, {\"color\": \"#1b9ee8\", \"text\": \"\\u25cb\"}, {\"color\": \"#21b3ec\", \"text\": \"\\u25cb \"}, {\"bold\": true, \"color\": \"#0d9dff\", \"text\": \"M\"}, {\"bold\": true, \"color\": \"#1aa7ff\", \"text\": \"I\"}, {\"bold\": true, \"color\": \"#27b1fe\", \"text\": \"N\"}, {\"bold\": true, \"color\": \"#34baff\", \"text\": \"E\"}, {\"bold\": true, \"color\": \"#41c4ff\", \"text\": \"D\"}, {\"bold\": true, \"color\": \"#4eceff\", \"text\": \"A\"}, {\"bold\": true, \"color\": \"#5bd7ff\", \"text\": \"Y \"}, {\"bold\": true, \"color\": \"#bababa\", \"text\": \"N\"}, {\"bold\": true, \"color\": \"#b1b1b1\", \"text\": \"E\"}, {\"bold\": true, \"color\": \"#a7a7a7\", \"text\": \"T\"}, {\"bold\": true, \"color\": \"#9e9e9e\", \"text\": \"W\"}, {\"bold\": true, \"color\": \"#949494\", \"text\": \"O\"}, {\"bold\": true, \"color\": \"#8b8b8b\", \"text\": \"R\"}, {\"bold\": true, \"color\": \"#828282\", \"text\": \"K \"}, {\"color\": \"#1179e1\", \"text\": \"[\"}, {\"color\": \"#127de2\", \"text\": \"1\"}, {\"color\": \"#1380e2\", \"text\": \".\"}, {\"color\": \"#1484e3\", \"text\": \"1\"}, {\"color\": \"#1587e4\", \"text\": \"6\"}, {\"color\": \"#168be4\", \"text\": \".\"}, {\"color\": \"#178fe5\", \"text\": \"5 \"}, {\"color\": \"#1996e6\", \"text\": \"- \"}, {\"color\": \"#1b9de8\", \"text\": \"1\"}, {\"color\": \"#1ca1e8\", \"text\": \".\"}, {\"color\": \"#1da4e9\", \"text\": \"2\"}, {\"color\": \"#1ea8ea\", \"text\": \"1\"}, {\"color\": \"#1fabea\", \"text\": \".\"}, {\"color\": \"#20afeb\", \"text\": \"X\"}, {\"color\": \"#21b3ec\", \"text\": \"] \"}, {\"color\": \"#1b9ee8\", \"text\": \"\\u25cb\"}, {\"color\": \"#168ae4\", \"text\": \"\\u25cb\"}, {\"color\": \"#1176e1\", \"text\": \"\\u25cb\"}, {\"color\": \"white\", \"text\": \"              \"}, {\"color\": \"white\", \"text\": \"Apoya al servidor en \"}, {\"color\": \"gray\", \"text\": \"\\u2600 \"}, {\"underlined\": true, \"color\": \"#1179e1\", \"text\": \"t\"}, {\"underlined\": true, \"color\": \"#127de2\", \"text\": \"i\"}, {\"underlined\": true, \"color\": \"#1380e2\", \"text\": \"e\"}, {\"underlined\": true, \"color\": \"#1484e3\", \"text\": \"n\"}, {\"underlined\": true, \"color\": \"#1587e4\", \"text\": \"d\"}, {\"underlined\": true, \"color\": \"#168be4\", \"text\": \"a\"}, {\"underlined\": true, \"color\": \"#178fe5\", \"text\": \".\"}, {\"underlined\": true, \"color\": \"#1892e6\", \"text\": \"m\"}, {\"underlined\": true, \"color\": \"#1996e6\", \"text\": \"i\"}, {\"underlined\": true, \"color\": \"#1a99e7\", \"text\": \"n\"}, {\"underlined\": true, \"color\": \"#1b9de8\", \"text\": \"e\"}, {\"underlined\": true, \"color\": \"#1ca1e8\", \"text\": \"d\"}, {\"underlined\": true, \"color\": \"#1da4e9\", \"text\": \"a\"}, {\"underlined\": true, \"color\": \"#1ea8ea\", \"text\": \"y\"}, {\"underlined\": true, \"color\": \"#1fabea\", \"text\": \".\"}, {\"underlined\": true, \"color\": \"#20afeb\", \"text\": \"u\"}, {\"underlined\": true, \"color\": \"#21b3ec\", \"text\": \"s\"}], \"text\": \"\"}",
+        "player_list": null,
+        "latency": 114,
+        "country": "US",
+        "city": "Piscataway"
+    },
+    {
+        "ip": "15.235.18.43",
+        "port": 25565,
+        "version": "Spigot 1.21",
+        "players": "1 / 40",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [\"marley approved\"]}",
+        "player_list": [
+            "FireShark233431"
+        ],
+        "latency": 110,
+        "country": "CA",
+        "city": "Beauharnois"
+    },
+    {
+        "ip": "51.161.206.65",
+        "port": 25565,
+        "version": "1.21",
+        "players": "2 / 20",
+        "gamemode": null,
+        "motd": "Minecraft Server",
+        "player_list": null,
+        "latency": 249,
+        "country": "AU",
+        "city": "Sydney"
+    },
+    {
+        "ip": "185.255.121.164",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "3 / 1337",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"bold\": true, \"color\": \"green\", \"extra\": [{\"color\": \"dark_green\", \"text\": \"Vision \"}], \"text\": \"Earth\"}, {\"color\": \"aqua\", \"extra\": [{\"color\": \"gray\", \"text\": \"- EarthSMP\"}], \"text\": \"Season 3.4 \"}], \"text\": \"\"}",
+        "player_list": [],
+        "latency": 193,
+        "country": "DE",
+        "city": "D\u00fcsseldorf"
+    },
+    {
+        "ip": "74.69.166.187",
+        "port": 25565,
+        "version": "Spigot 1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [\"Pogofruit fart smella\"]}",
+        "player_list": [
+            "Doot256"
+        ],
+        "latency": 127,
+        "country": "US",
+        "city": "Ithaca"
+    },
+    {
+        "ip": "140.245.72.38",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": null,
+        "latency": 280,
+        "country": "KR",
+        "city": "Chuncheon"
+    },
+    {
+        "ip": "54.39.66.134",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "Femboys Rule",
+        "player_list": [
+            "BlazeingCrab"
+        ],
+        "latency": 109,
+        "country": "CA",
+        "city": "Beauharnois"
+    },
+    {
+        "ip": "172.125.162.198",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": [
+            "Bradtheturtle"
+        ],
+        "latency": 102,
+        "country": "US",
+        "city": "Martinez"
+    },
+    {
+        "ip": "141.95.16.31",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "347 / 9999",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"extra\": [{\"bold\": true, \"extra\": [{\"color\": \"#FF4500\", \"text\": \"\\u2756\"}, {\"color\": \"#FF4800\", \"text\": \" \"}, {\"color\": \"white\", \"extra\": [{\"color\": \"#FF4500\", \"text\": \"3\"}, {\"color\": \"#FF7600\", \"text\": \"B\"}, {\"color\": \"#FFA600\", \"text\": \"3\"}, {\"color\": \"#FFD700\", \"text\": \"T\"}, {\"extra\": [{\"color\": \"#FF4500\", \"text\": \"\\u2756\"}, {\"color\": \"#FF4F00\", \"text\": \" \"}, {\"bold\": true, \"color\": \"red\", \"text\": \"\\u0411\\u042b\\u041b \\u0412\\u0410\\u0419\\u041f!\"}], \"text\": \" \\u25b6 1.13 - 1.20.+ ] \"}], \"text\": \"[ \"}], \"text\": \"\"}], \"text\": \"      \"}, \"\\n\", {\"extra\": [{\"bold\": true, \"extra\": [{\"color\": \"#FFD700\", \"text\": \"\\u0410\"}, {\"color\": \"#FDD801\", \"text\": \"\\u041d\"}, {\"color\": \"#FAD903\", \"text\": \"\\u0410\"}, {\"color\": \"#F8DA04\", \"text\": \"\\u0420\"}, {\"color\": \"#F6DC05\", \"text\": \"\\u0425\"}, {\"color\": \"#F3DD07\", \"text\": \"\\u0418\"}, {\"color\": \"#F1DE08\", \"text\": \"\\u042f\"}, {\"color\": \"#EFDF09\", \"text\": \",\"}, {\"color\": \"#ECE00B\", \"text\": \" \"}, {\"color\": \"#EAE10C\", \"text\": \"\\u041a\"}, {\"color\": \"#E8E20D\", \"text\": \"\\u041b\"}, {\"color\": \"#E5E40F\", \"text\": \"\\u0410\"}, {\"color\": \"#E3E510\", \"text\": \"\\u041d\"}, {\"color\": \"#E1E611\", \"text\": \"\\u042b\"}, {\"color\": \"#DEE713\", \"text\": \",\"}, {\"color\": \"#DCE814\", \"text\": \" \"}, {\"color\": \"#DAE915\", \"text\": \"P\"}, {\"color\": \"#D7EA17\", \"text\": \"V\"}, {\"color\": \"#D5EC18\", \"text\": \"P\"}, {\"color\": \"#D2ED1A\", \"text\": \",\"}, {\"color\": \"#D0EE1B\", \"text\": \" \"}, {\"color\": \"#CEEF1C\", \"text\": \"\\u0421\"}, {\"color\": \"#CBF01E\", \"text\": \"\\u041a\"}, {\"color\": \"#C9F11F\", \"text\": \"\\u0418\"}, {\"color\": \"#C7F220\", \"text\": \"\\u041b\"}, {\"color\": \"#C4F422\", \"text\": \"\\u041b\"}, {\"color\": \"#C2F523\", \"text\": \"\\u042b\"}, {\"color\": \"#C0F624\", \"text\": \",\"}, {\"color\": \"#BDF726\", \"text\": \" \"}, {\"color\": \"#BBF827\", \"text\": \"\\u041f\"}, {\"color\": \"#B9F928\", \"text\": \"\\u0418\"}, {\"color\": \"#B6FA2A\", \"text\": \"\\u0422\"}, {\"color\": \"#B4FC2B\", \"text\": \"\\u041e\"}, {\"color\": \"#B2FD2C\", \"text\": \"\\u041c\"}, {\"color\": \"#AFFE2E\", \"text\": \"\\u0426\"}, {\"color\": \"#ADFF2F\", \"text\": \"\\u042b\"}], \"text\": \"\"}], \"text\": \"  \"}], \"text\": \"\"}",
+        "player_list": [],
+        "latency": 189,
+        "country": "DE",
+        "city": "Frankfurt am Main"
+    },
+    {
+        "ip": "135.148.52.11",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "3 / 666",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"aqua\", \"extra\": [{\"color\": \"#FFD634\", \"text\": \"S\"}, {\"color\": \"#FCCE2D\", \"text\": \"e\"}, {\"color\": \"#FAC525\", \"text\": \"m\"}, {\"color\": \"#F7BD1E\", \"text\": \"i\"}, {\"color\": \"#F5B416\", \"text\": \"-\"}, {\"color\": \"#F2AC0F\", \"text\": \"v\"}, {\"color\": \"#F0A307\", \"text\": \"a\"}, {\"color\": \"#ED9B00\", \"text\": \"n\"}, {\"color\": \"#F0A307\", \"text\": \"i\"}, {\"color\": \"#F2AC0F\", \"text\": \"l\"}, {\"color\": \"#F5B416\", \"text\": \"l\"}, {\"color\": \"#F7BD1E\", \"text\": \"a\"}, {\"color\": \"#FAC525\", \"text\": \" \"}, {\"color\": \"#FCCE2D\", \"text\": \"S\"}, {\"color\": \"#FFD634\", \"text\": \"urvival!\"}], \"text\": \"1.20.2 Pure \"}, \"\\n\", \"Griefing, Raiding, Sethome, TPA, No Hacks or Claims\"], \"text\": \"\"}",
+        "player_list": [
+            "Blackav4r",
+            "The_Long_Ranger",
+            "chainsaweddie"
+        ],
+        "latency": 108,
+        "country": "US",
+        "city": "Ashburn"
+    },
+    {
+        "ip": "136.243.113.105",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "Seows Server for Friends",
+        "player_list": [
+            "aratimis"
+        ],
+        "latency": 200,
+        "country": "DE",
+        "city": "Falkenstein"
+    },
+    {
+        "ip": "45.90.96.139",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "3 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": [
+            "BuschFunkTV",
+            ".Jaxs0603",
+            "SirKiller030"
+        ],
+        "latency": 185,
+        "country": "DE",
+        "city": "Frankfurt am Main"
+    },
+    {
+        "ip": "115.238.196.70",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "346 / 400",
+        "gamemode": null,
+        "motd": "\u00a7c \u00a7c \u00a7c \u00a7c \u00a7c \u00a7c\u00a7lT\u00a7c\u00a7lo\u00a7c\u00a7lp\u00a7c\u00a7lC\u00a7c\u00a7lr\u00a7c\u00a7la\u00a7c\u00a7lb\u00a7c\u00a7l \u00a7c\u00a7l-\u00a7c\u00a7l \u00a7c\u00a7lB\u00a7c\u00a7le\u00a7c\u00a7lT\u00a7c\u00a7la\u00a7c\u00a7l \u00a7c\u00a7l0\u00a7c\u00a7l.\u00a7c\u00a7l4\u00a7c\u00a7l.\u00a7c\u00a7l3\u00a7c\u00a7l2\u00a7c\u00a7l \u00a7b\u00a7l(\u00a7b\u00a7l1\u00a7b\u00a7l.\u00a7b\u00a7l1\u00a7b\u00a7l8\u00a7b\u00a7l.\u00a7b\u00a7l1\u00a7b\u00a7l-\u00a7b\u00a7l1\u00a7b\u00a7l.\u00a7b\u00a7l2\u00a7b\u00a7l1\u00a7b\u00a7l.\u00a7b\u00a7l1\u00a7b\u00a7l)\u00a7r",
+        "player_list": null,
+        "latency": 275,
+        "country": "CN",
+        "city": "Shaoxing"
+    },
+    {
+        "ip": "103.195.103.141",
+        "port": 25565,
+        "version": "Spigot 1.21",
+        "players": "1 / 9999",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [\"A Minecraft Server\"]}",
+        "player_list": [
+            "The_Squiddy"
+        ],
+        "latency": 105,
+        "country": "US",
+        "city": "Miami"
+    },
+    {
+        "ip": "103.195.101.231",
+        "port": 25565,
+        "version": "1.21.20 \u00a7r\u00a79\u00a7l           DISCORD: \u00a7r\u00a7fdiscord.gg/magicmc (MCPE)",
+        "players": "9 / 500",
+        "gamemode": "Survival",
+        "motd": "\u00a7r\u00a7d\u2605\u00a7r \u00a7r\u00a7d\u00a7lMAGICMC\u00a7r \u00a7r\u00a77\u00a7lNETWORK\u00a7r \u00a7r\u00a78[ \u00a7r\u00a7f1.16 \u00a7r\u00a78\u2022\u00a7r\u00a7f 1.21 \u00a7r\u00a78] \u00a7r\u00a7d\u2605\u00a7r",
+        "player_list": null,
+        "latency": 0,
+        "country": "US",
+        "city": "Miami"
+    },
+    {
+        "ip": "65.108.5.167",
+        "port": 25565,
+        "version": "1.21",
+        "players": "6 / 100",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"extra\": [{\"color\": \"green\", \"text\": \"S\"}, {\"color\": \"#5FFF55\", \"text\": \"p\"}, {\"color\": \"#69FF55\", \"text\": \"a\"}, {\"color\": \"#73FF55\", \"text\": \"r\"}, {\"color\": \"#7DFF55\", \"text\": \"k\"}, {\"color\": \"#87FF55\", \"text\": \"C\"}, {\"color\": \"#91FF55\", \"text\": \"r\"}, {\"color\": \"#9BFF55\", \"text\": \"a\"}, {\"color\": \"#A5FF55\", \"text\": \"f\"}, {\"color\": \"#AFFF55\", \"text\": \"t\"}, {\"color\": \"#B9FF55\", \"text\": \" \"}, {\"color\": \"#C3FF55\", \"text\": \"N\"}, {\"color\": \"#CDFF55\", \"text\": \"e\"}, {\"color\": \"#D7FF55\", \"text\": \"t\"}, {\"color\": \"#E1FF55\", \"text\": \"w\"}, {\"color\": \"#EBFF55\", \"text\": \"o\"}, {\"color\": \"#F5FF55\", \"text\": \"r\"}, {\"color\": \"yellow\", \"text\": \"k\"}], \"text\": \"\"}, \"\\n\", {\"extra\": [{\"color\": \"yellow\", \"text\": \"1\"}, {\"color\": \"#FFF84E\", \"text\": \".\"}, {\"color\": \"#FFF147\", \"text\": \"2\"}, {\"color\": \"#FFEA40\", \"text\": \"1\"}, {\"color\": \"#FFE339\", \"text\": \" \"}, {\"color\": \"#FFDC32\", \"text\": \"-\"}, {\"color\": \"#FFD52B\", \"text\": \" \"}, {\"color\": \"#FFCD23\", \"text\": \"1\"}, {\"color\": \"#FFC61C\", \"text\": \".\"}, {\"color\": \"#FFBF15\", \"text\": \"2\"}, {\"color\": \"#FFB80E\", \"text\": \"1\"}, {\"color\": \"#FFB107\", \"text\": \".\"}, {\"color\": \"gold\", \"text\": \"1\"}], \"text\": \"\"}], \"text\": \"\"}",
+        "player_list": [],
+        "latency": 203,
+        "country": "FI",
+        "city": "Helsinki"
+    },
+    {
+        "ip": "186.62.101.55",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": null,
+        "latency": 305,
+        "country": "AR",
+        "city": "Trelew"
+    },
+    {
+        "ip": "173.20.61.237",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 6",
+        "gamemode": null,
+        "motd": "Weiner",
+        "player_list": [
+            "KingOfGingers_"
+        ],
+        "latency": 119,
+        "country": "US",
+        "city": "Navarre"
+    },
+    {
+        "ip": "89.33.12.133",
+        "port": 25565,
+        "version": "RaidMine 1.16-1.21",
+        "players": "1579 / 5000",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"bold\": true, \"extra\": [{\"color\": \"#FE7E70\", \"text\": \"\\u2620\"}, {\"color\": \"#FD816E\", \"text\": \" \"}, {\"color\": \"#FD846B\", \"text\": \"R\"}, {\"color\": \"#FC8669\", \"text\": \"a\"}, {\"color\": \"#FC8967\", \"text\": \"i\"}, {\"color\": \"#FB8C65\", \"text\": \"d\"}, {\"color\": \"#FB8F62\", \"text\": \"M\"}, {\"color\": \"#FA9260\", \"text\": \"i\"}, {\"color\": \"#FA955E\", \"text\": \"n\"}, {\"color\": \"#F9975C\", \"text\": \"e\"}, {\"color\": \"#F99A59\", \"text\": \" \"}, {\"color\": \"#F89D57\", \"text\": \"\\u2620\"}], \"text\": \"\"}, {\"extra\": [{\"color\": \"#C2C2C2\", \"text\": \"1.16-1.21\"}], \"text\": \" \"}, {\"extra\": [{\"color\": \"#F07E1F\", \"text\": \"\\u2022\"}, {\"color\": \"#E58D19\", \"text\": \"\\u2022\"}, {\"color\": \"#DA9D13\", \"text\": \"\\u2022\"}, {\"color\": \"#CFAC0D\", \"text\": \"\\u2022\"}, {\"color\": \"#C4BC07\", \"text\": \"\\u2022\"}, {\"color\": \"#B9CB01\", \"text\": \"\\u2022\"}], \"text\": \"\\n      \"}, {\"extra\": [{\"color\": \"white\", \"text\": \"\\u0421\"}, {\"color\": \"#FFFEFC\", \"text\": \"\\u0435\"}, {\"color\": \"#FFFDF9\", \"text\": \"\\u0440\"}, {\"color\": \"#FFFCF7\", \"text\": \"\\u0432\"}, {\"color\": \"#FFFBF4\", \"text\": \"\\u0435\"}, {\"color\": \"#FFF9F1\", \"text\": \"\\u0440\"}, {\"color\": \"#FFF8EE\", \"text\": \" \"}, {\"color\": \"#FFF7EC\", \"text\": \"\\u0434\"}, {\"color\": \"#FFF6E9\", \"text\": \"\\u043b\"}, {\"color\": \"#FFF5E6\", \"text\": \"\\u044f\"}, {\"color\": \"#FFF4E3\", \"text\": \" \"}, {\"color\": \"#FFF3E0\", \"text\": \"\\u0438\"}, {\"color\": \"#FFF2DE\", \"text\": \"\\u0441\"}, {\"color\": \"#FFF1DB\", \"text\": \"\\u0442\"}, {\"color\": \"#FFEFD8\", \"text\": \"\\u0438\"}, {\"color\": \"#FFEED5\", \"text\": \"\\u043d\"}, {\"color\": \"#FFEDD3\", \"text\": \"\\u043d\"}, {\"color\": \"#FFECD0\", \"text\": \"\\u044b\"}, {\"color\": \"#FFEBCD\", \"text\": \"\\u0445\"}, {\"color\": \"#FFEACA\", \"text\": \" \"}, {\"color\": \"#FFE9C7\", \"text\": \"\\u0433\"}, {\"color\": \"#FFE8C5\", \"text\": \"\\u0440\"}, {\"color\": \"#FFE7C2\", \"text\": \"\\u0438\"}, {\"color\": \"#FFE5BF\", \"text\": \"\\u0444\"}, {\"color\": \"#FFE4BC\", \"text\": \"\\u0435\"}, {\"color\": \"#FFE3BA\", \"text\": \"\\u0440\"}, {\"color\": \"#FFE2B7\", \"text\": \"\\u043e\"}, {\"color\": \"#FFE1B4\", \"text\": \"\\u0432\"}], \"text\": \" \"}, {\"extra\": [{\"color\": \"#B9CB01\", \"text\": \"\\u2022\"}, {\"color\": \"#C4BC07\", \"text\": \"\\u2022\"}, {\"color\": \"#CFAC0D\", \"text\": \"\\u2022\"}, {\"color\": \"#DA9D13\", \"text\": \"\\u2022\"}, {\"color\": \"#E58D19\", \"text\": \"\\u2022\"}, {\"color\": \"#F07E1F\", \"text\": \"\\u2022\"}], \"text\": \" \"}], \"text\": \"                \"}",
+        "player_list": [],
+        "latency": 203,
+        "country": "DE",
+        "city": "Frankfurt am Main"
+    },
+    {
+        "ip": "118.16.190.79",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 256",
+        "gamemode": null,
+        "motd": "Welcome to Apple of Discord!!",
+        "player_list": [
+            "Shachi_ZF2"
+        ],
+        "latency": 180,
+        "country": "JP",
+        "city": "Gifu-shi"
+    },
+    {
+        "ip": "114.32.177.157",
+        "port": 25565,
+        "version": "1.21",
+        "players": "3 / 20",
+        "gamemode": null,
+        "motd": "T1FR Minecraft \u4f3a\u670d\u5668",
+        "player_list": null,
+        "latency": 274,
+        "country": "TW",
+        "city": "Taipei"
+    },
+    {
+        "ip": "76.14.106.202",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "3 / 20",
+        "gamemode": null,
+        "motd": "Survival Server",
+        "player_list": [
+            ".The_Sphinx82",
+            "TomasWasSeen",
+            ".Owen1sBoss"
+        ],
+        "latency": 85,
+        "country": "US",
+        "city": "San Francisco"
+    },
+    {
+        "ip": "51.89.76.17",
+        "port": 25565,
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "players": "233 / 10000",
+        "gamemode": null,
+        "motd": "{\"extra\": [{\"color\": \"yellow\", \"text\": \"GommeHD\"}, {\"color\": \"gray\", \"text\": \".\"}, {\"color\": \"yellow\", \"text\": \"net \"}, {\"color\": \"gray\", \"text\": \"- \"}, {\"color\": \"aqua\", \"text\": \"GommeHD Network\"}, {\"color\": \"gray\", \"text\": \" - \"}, {\"color\": \"white\", \"text\": \"[\"}, {\"color\": \"light_purple\", \"text\": \"1.8\"}, {\"color\": \"white\", \"text\": \"-\"}, {\"color\": \"light_purple\", \"text\": \"1.21\"}, {\"color\": \"white\", \"text\": \"]\\n\"}, {\"bold\": true, \"color\": \"red\", \"text\": \"BEDWARS \"}, {\"bold\": true, \"color\": \"aqua\", \"text\": \"UPDATE \"}, {\"color\": \"gray\", \"text\": \"+ \"}, {\"bold\": true, \"color\": \"gold\", \"text\": \"MONEYMAKER \"}, {\"bold\": true, \"color\": \"aqua\", \"text\": \"EVENT\"}], \"text\": \"\"}",
+        "player_list": null,
+        "latency": 188,
+        "country": "DE",
+        "city": "Frankfurt am Main"
+    },
+    {
+        "ip": "62.146.178.62",
+        "port": 25565,
+        "version": "1.21.0 \u00a7l   \u00a7r\u00a7c            \u00a7r\u00a76\u00a7lMUST \u00a7r\u00a72\u00a7lSMOKE\u00a7r\u00a76\u00a7l TO JOIN \u00a7r\u00a77| \u00a7r\u00a72\u00a7l\u26cf (MCPE)",
+        "players": "1 / 100",
+        "gamemode": "Survival",
+        "motd": "\u00a7l   \u00a7r\u00a7a                DFShosting \u00a7r\u00a7c[1.8-1.21]\u00a7r",
+        "player_list": null,
+        "latency": 0,
+        "country": "US",
+        "city": "St. Louis"
+    },
+    {
+        "ip": "101.175.145.237",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": null,
+        "latency": 285,
+        "country": "AU",
+        "city": "Perth"
+    },
+    {
+        "ip": "85.214.37.180",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "1 / 10",
+        "gamemode": null,
+        "motd": "{\"text\": \"\", \"extra\": [{\"text\": \"|||\", \"obfuscated\": true, \"color\": \"light_purple\"}, \" \", {\"text\": \"R\", \"color\": \"dark_purple\"}, {\"text\": \"B\", \"color\": \"dark_purple\"}, {\"text\": \"N \", \"color\": \"dark_purple\"}, {\"text\": \"|||\", \"obfuscated\": true, \"color\": \"light_purple\"}]}",
+        "player_list": [
+            "xRBNx"
+        ],
+        "latency": 210,
+        "country": "DE",
+        "city": "Berlin"
+    },
+    {
+        "ip": "50.33.31.54",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "Happy little place",
+        "player_list": [
+            "Breaded_Spam"
+        ],
+        "latency": 118,
+        "country": "US",
+        "city": "Jordan"
+    },
+    {
+        "ip": "51.222.244.41",
+        "port": 25565,
+        "version": "Velocity 1.7.2-1.21",
+        "players": "14 / 1",
+        "gamemode": null,
+        "motd": "{\"color\": \"#09ADD3\", \"text\": \"Welcome to groyper.world!\"}",
+        "player_list": [],
+        "latency": 110,
+        "country": "CA",
+        "city": "Beauharnois"
+    },
+    {
+        "ip": "34.47.110.186",
+        "port": 25565,
+        "version": "Paper 1.21",
+        "players": "6 / 20",
+        "gamemode": null,
+        "motd": "\uc815\uc9c0\uc628",
+        "player_list": [
+            ".doyoutv",
+            ".Nxxx4007",
+            ".i77250",
+            "Yoxx1_OA",
+            "Stopon_08",
+            ".Duswns0"
+        ],
+        "latency": 194,
+        "country": "KR",
+        "city": "Seoul"
+    },
+    {
+        "ip": "125.228.208.174",
+        "port": 25565,
+        "version": "1.21",
+        "players": "1 / 20",
+        "gamemode": null,
+        "motd": "A Minecraft Server",
+        "player_list": [
+            "FelixChung51"
+        ],
+        "latency": 282,
+        "country": "TW",
+        "city": "Tainan"
+    }
+]

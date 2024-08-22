@@ -1,0 +1,4642 @@
+[
+    {
+        "ip": "185.135.158.15",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "158.179.213.96",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "ES",
+            "city": "Madrid",
+            "longitude": -3.6232,
+            "latitude": 40.4305
+        }
+    },
+    {
+        "ip": "157.7.205.99",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Hatsudai",
+            "longitude": 139.68588,
+            "latitude": 35.67729
+        }
+    },
+    {
+        "ip": "95.94.203.81",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "PT",
+            "city": "Loures",
+            "longitude": -9.16845,
+            "latitude": 38.83091
+        }
+    },
+    {
+        "ip": "101.35.210.80",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shanghai",
+            "longitude": 121.45806,
+            "latitude": 31.22222
+        }
+    },
+    {
+        "ip": "8.137.82.14",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Chengdu",
+            "longitude": 104.06667,
+            "latitude": 30.66667
+        }
+    },
+    {
+        "ip": "5.183.221.99",
+        "version": "1.21",
+        "location": {
+            "country_code": "ES",
+            "city": "Igualada",
+            "longitude": 1.6172,
+            "latitude": 41.58098
+        }
+    },
+    {
+        "ip": "217.160.248.228",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "ES",
+            "city": "Madrid",
+            "longitude": -3.70256,
+            "latitude": 40.4165
+        }
+    },
+    {
+        "ip": "149.40.57.229",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Atlanta",
+            "longitude": -84.38798,
+            "latitude": 33.749
+        }
+    },
+    {
+        "ip": "126.88.225.7",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Yamagata",
+            "longitude": 140.36667,
+            "latitude": 38.23333
+        }
+    },
+    {
+        "ip": "172.65.233.214",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "San Francisco",
+            "longitude": -122.3971,
+            "latitude": 37.7621
+        }
+    },
+    {
+        "ip": "162.43.25.159",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "45.130.42.218",
+        "version": "1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Saint Petersburg",
+            "longitude": 30.31413,
+            "latitude": 59.93863
+        }
+    },
+    {
+        "ip": "85.190.133.132",
+        "version": "1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.1935,
+            "latitude": -33.926
+        }
+    },
+    {
+        "ip": "95.160.66.53",
+        "version": "1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "D\u0119blin",
+            "longitude": 21.84829,
+            "latitude": 51.55912
+        }
+    },
+    {
+        "ip": "12.217.212.194",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "169.150.219.213",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Toronto",
+            "longitude": -79.39864,
+            "latitude": 43.70643
+        }
+    },
+    {
+        "ip": "184.99.60.85",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Colorado Springs",
+            "longitude": -104.82136,
+            "latitude": 38.83388
+        }
+    },
+    {
+        "ip": "45.173.130.167",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CL",
+            "city": "Santiago",
+            "longitude": -70.64827,
+            "latitude": -33.45694
+        }
+    },
+    {
+        "ip": "174.34.41.211",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Columbia",
+            "longitude": -92.33407,
+            "latitude": 38.95171
+        }
+    },
+    {
+        "ip": "104.223.101.152",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.8703,
+            "latitude": 32.8152
+        }
+    },
+    {
+        "ip": "37.10.121.50",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "91.132.144.60",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.0222,
+            "latitude": 49.4453
+        }
+    },
+    {
+        "ip": "14.225.212.4",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "VN",
+            "city": "Ho Chi Minh City",
+            "longitude": 106.62965,
+            "latitude": 10.82302
+        }
+    },
+    {
+        "ip": "82.147.71.213",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Novosibirsk",
+            "longitude": 82.9346,
+            "latitude": 55.0415
+        }
+    },
+    {
+        "ip": "72.5.47.51",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "139.47.13.198",
+        "version": "1.21",
+        "location": {
+            "country_code": "ES",
+            "city": "Valencia",
+            "longitude": -0.37966,
+            "latitude": 39.47391
+        }
+    },
+    {
+        "ip": "160.251.205.249",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Yamato",
+            "longitude": 139.45101,
+            "latitude": 35.47276
+        }
+    },
+    {
+        "ip": "162.33.28.68",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "87.98.143.24",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "FR",
+            "city": "Lille",
+            "longitude": 3.05858,
+            "latitude": 50.63297
+        }
+    },
+    {
+        "ip": "131.108.175.15",
+        "version": "1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "Rio Verde",
+            "longitude": -50.92806,
+            "latitude": -17.79806
+        }
+    },
+    {
+        "ip": "188.40.99.232",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "172.240.236.204",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "San Jose",
+            "longitude": -121.89496,
+            "latitude": 37.33939
+        }
+    },
+    {
+        "ip": "45.93.249.175",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "65.108.43.166",
+        "version": "Turhat 1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Helsinki",
+            "longitude": 24.93545,
+            "latitude": 60.16952
+        }
+    },
+    {
+        "ip": "129.153.86.86",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -111.9984,
+            "latitude": 33.4665
+        }
+    },
+    {
+        "ip": "115.125.147.84",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Kawasaki",
+            "longitude": 139.71722,
+            "latitude": 35.52056
+        }
+    },
+    {
+        "ip": "121.43.109.28",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Hangzhou",
+            "longitude": 120.16142,
+            "latitude": 30.29365
+        }
+    },
+    {
+        "ip": "106.54.196.216",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shanghai",
+            "longitude": 121.45806,
+            "latitude": 31.22222
+        }
+    },
+    {
+        "ip": "130.44.132.19",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Somerville",
+            "longitude": -71.0995,
+            "latitude": 42.3876
+        }
+    },
+    {
+        "ip": "80.209.111.6",
+        "version": "1.21",
+        "location": {
+            "country_code": "DK",
+            "city": "Nyk\u00f8bing Sj\u00e6lland",
+            "longitude": 11.67109,
+            "latitude": 55.92491
+        }
+    },
+    {
+        "ip": "50.20.201.65",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "144.6.172.236",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Canberra",
+            "longitude": 149.12807,
+            "latitude": -35.28346
+        }
+    },
+    {
+        "ip": "155.94.252.180",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "85.190.133.5",
+        "version": "1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.1935,
+            "latitude": -33.926
+        }
+    },
+    {
+        "ip": "76.155.18.123",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Arvada",
+            "longitude": -105.08748,
+            "latitude": 39.80276
+        }
+    },
+    {
+        "ip": "85.14.194.102",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Niederkr\u00fcchten",
+            "longitude": 6.21667,
+            "latitude": 51.2
+        }
+    },
+    {
+        "ip": "170.205.27.119",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "104.225.253.186",
+        "version": "1.21",
+        "location": {
+            "country_code": "SG",
+            "city": "Singapore",
+            "longitude": 103.85007,
+            "latitude": 1.28967
+        }
+    },
+    {
+        "ip": "34.45.170.135",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Council Bluffs",
+            "longitude": -95.86083,
+            "latitude": 41.26194
+        }
+    },
+    {
+        "ip": "173.246.21.150",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Montr\u00e9al",
+            "longitude": -73.58781,
+            "latitude": 45.50884
+        }
+    },
+    {
+        "ip": "51.191.6.204",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.1257,
+            "latitude": 51.5085
+        }
+    },
+    {
+        "ip": "91.241.254.103",
+        "version": "1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Moscow",
+            "longitude": 37.61556,
+            "latitude": 55.75222
+        }
+    },
+    {
+        "ip": "194.9.6.97",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "116.0.229.6",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Yokohama",
+            "longitude": 139.65,
+            "latitude": 35.43333
+        }
+    },
+    {
+        "ip": "94.231.37.4",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Paris",
+            "longitude": 2.3488,
+            "latitude": 48.85341
+        }
+    },
+    {
+        "ip": "160.251.201.15",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "104.128.55.69",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "212.132.110.75",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Berlin",
+            "longitude": 13.41053,
+            "latitude": 52.52437
+        }
+    },
+    {
+        "ip": "160.251.183.128",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "160.251.168.62",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "140.238.94.72",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "103.124.101.110",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Seoul",
+            "longitude": 126.9784,
+            "latitude": 37.566
+        }
+    },
+    {
+        "ip": "38.103.171.68",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "178.27.71.217",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Passau",
+            "longitude": 13.43122,
+            "latitude": 48.5665
+        }
+    },
+    {
+        "ip": "39.102.209.55",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Beijing",
+            "longitude": 116.39723,
+            "latitude": 39.9075
+        }
+    },
+    {
+        "ip": "208.87.133.138",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Elizabeth",
+            "longitude": -74.2107,
+            "latitude": 40.66399
+        }
+    },
+    {
+        "ip": "39.100.70.36",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Zhangjiakou",
+            "longitude": 114.87139,
+            "latitude": 40.78341
+        }
+    },
+    {
+        "ip": "62.4.29.69",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Paris",
+            "longitude": 2.33355,
+            "latitude": 48.86485
+        }
+    },
+    {
+        "ip": "51.254.181.152",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Lille",
+            "longitude": 3.05858,
+            "latitude": 50.63297
+        }
+    },
+    {
+        "ip": "151.80.149.236",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Strasbourg",
+            "longitude": 7.74553,
+            "latitude": 48.58392
+        }
+    },
+    {
+        "ip": "162.43.7.149",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "119.45.224.32",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Nanjing",
+            "longitude": 118.77778,
+            "latitude": 32.06167
+        }
+    },
+    {
+        "ip": "51.81.178.22",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "86.30.156.201",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "Dagenham",
+            "longitude": 0.16667,
+            "latitude": 51.55
+        }
+    },
+    {
+        "ip": "92.205.58.247",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Strasbourg",
+            "longitude": 7.74553,
+            "latitude": 48.58392
+        }
+    },
+    {
+        "ip": "46.23.108.184",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Kerkrade",
+            "longitude": 6.0624,
+            "latitude": 50.8907
+        }
+    },
+    {
+        "ip": "51.81.215.7",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "92.63.56.110",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CZ",
+            "city": "Vr\u0161ovice",
+            "longitude": 14.46231,
+            "latitude": 50.06239
+        }
+    },
+    {
+        "ip": "88.211.211.196",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Amsterdam",
+            "longitude": 4.88969,
+            "latitude": 52.37403
+        }
+    },
+    {
+        "ip": "87.173.64.60",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Friedrichshafen",
+            "longitude": 9.47554,
+            "latitude": 47.65689
+        }
+    },
+    {
+        "ip": "73.177.162.53",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Charlottesville",
+            "longitude": -78.47668,
+            "latitude": 38.02931
+        }
+    },
+    {
+        "ip": "140.238.146.207",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Toronto",
+            "longitude": -79.39864,
+            "latitude": 43.70643
+        }
+    },
+    {
+        "ip": "150.136.33.120",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "209.222.97.107",
+        "version": "Paper 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.232,
+            "latitude": 25.813
+        }
+    },
+    {
+        "ip": "51.83.230.230",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "178.33.239.137",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Lille",
+            "longitude": 3.05858,
+            "latitude": 50.63297
+        }
+    },
+    {
+        "ip": "146.59.19.38",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.0522,
+            "latitude": 52.2284
+        }
+    },
+    {
+        "ip": "216.172.123.4",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Thief River Falls",
+            "longitude": -96.18115,
+            "latitude": 48.11914
+        }
+    },
+    {
+        "ip": "12.132.247.6",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "McAllen",
+            "longitude": -98.23001,
+            "latitude": 26.20341
+        }
+    },
+    {
+        "ip": "130.61.186.170",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "191.179.1.25",
+        "version": "1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "Porto Alegre",
+            "longitude": -51.23019,
+            "latitude": -30.03283
+        }
+    },
+    {
+        "ip": "70.160.148.98",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Norfolk",
+            "longitude": -76.28522,
+            "latitude": 36.84681
+        }
+    },
+    {
+        "ip": "136.243.3.29",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "51.75.174.33",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "94.231.36.227",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Paris",
+            "longitude": 2.3488,
+            "latitude": 48.85341
+        }
+    },
+    {
+        "ip": "140.186.91.73",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Fargo",
+            "longitude": -96.7898,
+            "latitude": 46.87719
+        }
+    },
+    {
+        "ip": "98.233.172.99",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Bel Air",
+            "longitude": -76.34829,
+            "latitude": 39.53594
+        }
+    },
+    {
+        "ip": "162.43.55.192",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "12.217.212.21",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "66.85.153.220",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -112.07404,
+            "latitude": 33.44838
+        }
+    },
+    {
+        "ip": "103.195.102.228",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.232,
+            "latitude": 25.813
+        }
+    },
+    {
+        "ip": "166.70.40.85",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Brigham City",
+            "longitude": -112.0155,
+            "latitude": 41.51021
+        }
+    },
+    {
+        "ip": "36.50.134.253",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "VN",
+            "city": "Hanoi",
+            "longitude": 105.84117,
+            "latitude": 21.0245
+        }
+    },
+    {
+        "ip": "92.104.221.62",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CH",
+            "city": "Winterthur",
+            "longitude": 8.72413,
+            "latitude": 47.50564
+        }
+    },
+    {
+        "ip": "20.240.217.84",
+        "version": "1.21",
+        "location": {
+            "country_code": "SE",
+            "city": "G\u00e4vle",
+            "longitude": 17.14174,
+            "latitude": 60.67452
+        }
+    },
+    {
+        "ip": "78.47.203.144",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "145.239.2.227",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "73.82.249.127",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Atlanta",
+            "longitude": -84.38798,
+            "latitude": 33.749
+        }
+    },
+    {
+        "ip": "172.93.106.100",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Piscataway",
+            "longitude": -74.39904,
+            "latitude": 40.49927
+        }
+    },
+    {
+        "ip": "65.110.45.90",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Secaucus",
+            "longitude": -74.05653,
+            "latitude": 40.78955
+        }
+    },
+    {
+        "ip": "5.83.175.251",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.2666,
+            "latitude": 34.0559
+        }
+    },
+    {
+        "ip": "173.44.44.196",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.19366,
+            "latitude": 25.77427
+        }
+    },
+    {
+        "ip": "223.134.69.132",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Saitama",
+            "longitude": 139.65657,
+            "latitude": 35.90807
+        }
+    },
+    {
+        "ip": "38.242.212.145",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "147.135.40.217",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "47.116.195.150",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shanghai",
+            "longitude": 121.45806,
+            "latitude": 31.22222
+        }
+    },
+    {
+        "ip": "104.223.107.226",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Secaucus",
+            "longitude": -74.05653,
+            "latitude": 40.78955
+        }
+    },
+    {
+        "ip": "37.99.205.76",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Aspach",
+            "longitude": 9.4,
+            "latitude": 48.96667
+        }
+    },
+    {
+        "ip": "146.235.53.254",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "S\u00e3o Paulo",
+            "longitude": -46.63611,
+            "latitude": -23.5475
+        }
+    },
+    {
+        "ip": "135.148.8.251",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "155.248.220.214",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Toronto",
+            "longitude": -79.39864,
+            "latitude": 43.70643
+        }
+    },
+    {
+        "ip": "218.161.51.63",
+        "version": "1.21",
+        "location": {
+            "country_code": "TW",
+            "city": "Taoyuan City",
+            "longitude": 121.29696,
+            "latitude": 24.99368
+        }
+    },
+    {
+        "ip": "66.118.233.33",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "144.24.68.234",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Chuncheon",
+            "longitude": 127.6996,
+            "latitude": 37.8625
+        }
+    },
+    {
+        "ip": "212.68.235.224",
+        "version": "1.21",
+        "location": {
+            "country_code": "BE",
+            "city": "Wanze",
+            "longitude": 5.20846,
+            "latitude": 50.53907
+        }
+    },
+    {
+        "ip": "72.46.37.73",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Harbor Springs",
+            "longitude": -84.992,
+            "latitude": 45.43168
+        }
+    },
+    {
+        "ip": "46.246.10.216",
+        "version": "1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Oulu",
+            "longitude": 25.4494,
+            "latitude": 65.0593
+        }
+    },
+    {
+        "ip": "95.49.158.240",
+        "version": "1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "149.202.53.162",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Strasbourg",
+            "longitude": 7.74553,
+            "latitude": 48.58392
+        }
+    },
+    {
+        "ip": "134.65.16.231",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "Vinhedo",
+            "longitude": -46.97528,
+            "latitude": -23.02972
+        }
+    },
+    {
+        "ip": "51.161.207.125",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.20732,
+            "latitude": -33.86785
+        }
+    },
+    {
+        "ip": "51.79.124.4",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "135.125.213.70",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "5.9.57.156",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "180.199.110.113",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Nagoya",
+            "longitude": 136.90641,
+            "latitude": 35.18147
+        }
+    },
+    {
+        "ip": "85.224.72.220",
+        "version": "1.21",
+        "location": {
+            "country_code": "SE",
+            "city": "Ume\u00e5",
+            "longitude": 20.25972,
+            "latitude": 63.82842
+        }
+    },
+    {
+        "ip": "51.161.196.147",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.20732,
+            "latitude": -33.86785
+        }
+    },
+    {
+        "ip": "148.222.41.233",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Washington",
+            "longitude": -77.03637,
+            "latitude": 38.89511
+        }
+    },
+    {
+        "ip": "144.24.195.164",
+        "version": "XCord 1.7.x - 1.21.x",
+        "location": {
+            "country_code": "FR",
+            "city": "Sept\u00e8mes-les-Vallons",
+            "longitude": 5.3539,
+            "latitude": 43.3722
+        }
+    },
+    {
+        "ip": "172.240.2.117",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Reston",
+            "longitude": -77.3411,
+            "latitude": 38.96872
+        }
+    },
+    {
+        "ip": "12.217.212.51",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "135.148.163.131",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "49.12.214.120",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "89.125.125.30",
+        "version": "1.21",
+        "location": {
+            "country_code": "IE",
+            "city": "Cork",
+            "longitude": -8.47061,
+            "latitude": 51.89797
+        }
+    },
+    {
+        "ip": "162.210.21.67",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ogden",
+            "longitude": -111.97383,
+            "latitude": 41.223
+        }
+    },
+    {
+        "ip": "101.34.207.112",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shanghai",
+            "longitude": 121.45806,
+            "latitude": 31.22222
+        }
+    },
+    {
+        "ip": "208.52.146.170",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "160.251.207.81",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Yamato",
+            "longitude": 139.45101,
+            "latitude": 35.47276
+        }
+    },
+    {
+        "ip": "129.222.28.29",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "84.113.40.31",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "AT",
+            "city": "Ohlsdorf",
+            "longitude": 13.79145,
+            "latitude": 47.96073
+        }
+    },
+    {
+        "ip": "70.80.151.159",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Clarence-Rockland",
+            "longitude": -75.29101,
+            "latitude": 45.5501
+        }
+    },
+    {
+        "ip": "193.26.159.225",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.0222,
+            "latitude": 49.4453
+        }
+    },
+    {
+        "ip": "95.216.18.210",
+        "version": "1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Helsinki",
+            "longitude": 24.93545,
+            "latitude": 60.16952
+        }
+    },
+    {
+        "ip": "37.10.121.54",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "130.61.75.54",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "98.3.92.94",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ilion",
+            "longitude": -75.03543,
+            "latitude": 43.01507
+        }
+    },
+    {
+        "ip": "93.186.205.133",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "50.52.106.70",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Moscow",
+            "longitude": -117.00017,
+            "latitude": 46.73239
+        }
+    },
+    {
+        "ip": "12.132.247.59",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "McAllen",
+            "longitude": -98.23001,
+            "latitude": 26.20341
+        }
+    },
+    {
+        "ip": "51.222.0.67",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "160.251.174.83",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "109.199.121.43",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "123.16.57.92",
+        "version": "1.21",
+        "location": {
+            "country_code": "VN",
+            "city": "Hanoi",
+            "longitude": 105.84117,
+            "latitude": 21.0245
+        }
+    },
+    {
+        "ip": "207.174.40.35",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Montr\u00e9al",
+            "longitude": -73.5815,
+            "latitude": 45.4459
+        }
+    },
+    {
+        "ip": "78.46.163.86",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "209.222.98.16",
+        "version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
+        "location": {
+            "country_code": "US",
+            "city": "Piscataway",
+            "longitude": -74.39904,
+            "latitude": 40.49927
+        }
+    },
+    {
+        "ip": "35.230.150.78",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "62.198.62.233",
+        "version": "1.21",
+        "location": {
+            "country_code": "DK",
+            "city": "Copenhagen",
+            "longitude": 12.56553,
+            "latitude": 55.67594
+        }
+    },
+    {
+        "ip": "15.235.18.43",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "104.128.51.166",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "116.198.245.200",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Nanjing",
+            "longitude": 118.77778,
+            "latitude": 32.06167
+        }
+    },
+    {
+        "ip": "169.150.134.241",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "160.251.183.203",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "51.161.206.65",
+        "version": "1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.20732,
+            "latitude": -33.86785
+        }
+    },
+    {
+        "ip": "161.129.155.35",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "143.110.234.128",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Santa Clara",
+            "longitude": -121.9623,
+            "latitude": 37.3924
+        }
+    },
+    {
+        "ip": "66.59.210.46",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "93.186.198.110",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "84.133.222.235",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Hamburg",
+            "longitude": 9.99302,
+            "latitude": 53.55073
+        }
+    },
+    {
+        "ip": "123.56.254.43",
+        "version": "1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Beijing",
+            "longitude": 116.39723,
+            "latitude": 39.9075
+        }
+    },
+    {
+        "ip": "143.110.234.152",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "US",
+            "city": "Santa Clara",
+            "longitude": -121.9623,
+            "latitude": 37.3924
+        }
+    },
+    {
+        "ip": "185.255.121.164",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "78.194.55.103",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Massy",
+            "longitude": 2.28301,
+            "latitude": 48.72692
+        }
+    },
+    {
+        "ip": "74.69.166.187",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ithaca",
+            "longitude": -76.49661,
+            "latitude": 42.44063
+        }
+    },
+    {
+        "ip": "140.245.72.38",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Chuncheon",
+            "longitude": 127.6996,
+            "latitude": 37.8625
+        }
+    },
+    {
+        "ip": "75.132.87.234",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Brumley",
+            "longitude": -92.48685,
+            "latitude": 38.08642
+        }
+    },
+    {
+        "ip": "162.43.16.127",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "152.53.45.32",
+        "version": "1.21",
+        "location": {
+            "country_code": "AT",
+            "city": "Vienna",
+            "longitude": 16.3503,
+            "latitude": 48.1952
+        }
+    },
+    {
+        "ip": "118.27.227.139",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "54.36.133.16",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Wattrelos",
+            "longitude": 3.21812,
+            "latitude": 50.70118
+        }
+    },
+    {
+        "ip": "173.240.147.138",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "147.45.175.181",
+        "version": "1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Moscow",
+            "longitude": 37.61556,
+            "latitude": 55.75222
+        }
+    },
+    {
+        "ip": "40.233.2.39",
+        "version": "1.21",
+        "location": {
+            "country_code": "MX",
+            "city": "Radica",
+            "longitude": -100.22306,
+            "latitude": 25.77639
+        }
+    },
+    {
+        "ip": "204.77.4.137",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "54.39.66.134",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "144.217.144.176",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "118.27.229.2",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "185.91.127.94",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Aachen",
+            "longitude": 6.08342,
+            "latitude": 50.77664
+        }
+    },
+    {
+        "ip": "70.110.193.168",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Philadelphia",
+            "longitude": -75.16362,
+            "latitude": 39.95238
+        }
+    },
+    {
+        "ip": "24.21.8.91",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "178.201.145.190",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "51.68.197.129",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "Bexley",
+            "longitude": 0.14866,
+            "latitude": 51.44162
+        }
+    },
+    {
+        "ip": "188.68.247.33",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "194.5.152.181",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "108.206.195.183",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "159.54.146.41",
+        "version": "1.21",
+        "location": {
+            "country_code": "MX",
+            "city": "El Colorado",
+            "longitude": -100.2452,
+            "latitude": 20.56185
+        }
+    },
+    {
+        "ip": "192.99.106.179",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "79.160.161.171",
+        "version": "1.21",
+        "location": {
+            "country_code": "NO",
+            "city": "Kopervik",
+            "longitude": 5.30669,
+            "latitude": 59.28354
+        }
+    },
+    {
+        "ip": "152.67.34.19",
+        "version": "1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "S\u00e3o Paulo",
+            "longitude": -46.63611,
+            "latitude": -23.5475
+        }
+    },
+    {
+        "ip": "201.66.220.230",
+        "version": "1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "Caxias do Sul",
+            "longitude": -51.17944,
+            "latitude": -29.16806
+        }
+    },
+    {
+        "ip": "85.14.192.130",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Niederkr\u00fcchten",
+            "longitude": 6.21667,
+            "latitude": 51.2
+        }
+    },
+    {
+        "ip": "141.11.109.40",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "TR",
+            "city": "Bah\u00e7elievler",
+            "longitude": 28.8343,
+            "latitude": 40.9992
+        }
+    },
+    {
+        "ip": "24.20.240.78",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Vancouver",
+            "longitude": -122.66149,
+            "latitude": 45.63873
+        }
+    },
+    {
+        "ip": "136.243.42.42",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Hachenburg",
+            "longitude": 7.82276,
+            "latitude": 50.65998
+        }
+    },
+    {
+        "ip": "91.198.19.90",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "89.116.25.168",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "109.222.217.82",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Saint-Fulgent",
+            "longitude": -1.17774,
+            "latitude": 46.85323
+        }
+    },
+    {
+        "ip": "172.125.162.198",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Martinez",
+            "longitude": -82.07567,
+            "latitude": 33.51736
+        }
+    },
+    {
+        "ip": "141.95.16.31",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "85.190.167.49",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "160.251.171.80",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "160.251.181.169",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "51.68.154.41",
+        "version": "1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.0522,
+            "latitude": 52.2284
+        }
+    },
+    {
+        "ip": "185.25.217.154",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "192.18.154.80",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Toronto",
+            "longitude": -79.39864,
+            "latitude": 43.70643
+        }
+    },
+    {
+        "ip": "204.112.137.151",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Pine Falls",
+            "longitude": -96.21808,
+            "latitude": 50.56641
+        }
+    },
+    {
+        "ip": "135.148.52.11",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "163.44.96.176",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Urayasu",
+            "longitude": 139.90055,
+            "latitude": 35.65879
+        }
+    },
+    {
+        "ip": "176.61.36.228",
+        "version": "1.21",
+        "location": {
+            "country_code": "IE",
+            "city": "Dublin",
+            "longitude": -6.24889,
+            "latitude": 53.33306
+        }
+    },
+    {
+        "ip": "176.69.177.140",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "SE",
+            "city": "Jakobsberg",
+            "longitude": 17.83508,
+            "latitude": 59.42268
+        }
+    },
+    {
+        "ip": "12.217.212.92",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "107.192.225.212",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Oklahoma City",
+            "longitude": -97.51643,
+            "latitude": 35.46756
+        }
+    },
+    {
+        "ip": "65.129.85.77",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Meridian",
+            "longitude": -116.39151,
+            "latitude": 43.61211
+        }
+    },
+    {
+        "ip": "185.236.139.126",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "152.117.119.96",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ypsilanti",
+            "longitude": -83.61299,
+            "latitude": 42.24115
+        }
+    },
+    {
+        "ip": "160.251.142.50",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "199.48.225.211",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "San Diego",
+            "longitude": -117.16472,
+            "latitude": 32.71571
+        }
+    },
+    {
+        "ip": "176.123.162.247",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Lobnya",
+            "longitude": 37.46793,
+            "latitude": 56.02714
+        }
+    },
+    {
+        "ip": "37.157.252.222",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "163.44.101.2",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "136.243.113.105",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "85.214.215.181",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Berlin",
+            "longitude": 13.41053,
+            "latitude": 52.52437
+        }
+    },
+    {
+        "ip": "45.90.96.139",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "147.135.20.105",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "91.210.168.26",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Saint Petersburg",
+            "longitude": 30.31413,
+            "latitude": 59.93863
+        }
+    },
+    {
+        "ip": "115.238.196.70",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shaoxing",
+            "longitude": 120.57864,
+            "latitude": 30.00237
+        }
+    },
+    {
+        "ip": "104.231.127.18",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Mentor",
+            "longitude": -81.3421,
+            "latitude": 41.6895
+        }
+    },
+    {
+        "ip": "80.7.179.128",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "Gosport",
+            "longitude": -1.12902,
+            "latitude": 50.79509
+        }
+    },
+    {
+        "ip": "172.240.91.74",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "45.79.251.97",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "118.27.229.43",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "54.36.230.126",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "89.150.129.185",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DK",
+            "city": "Copenhagen",
+            "longitude": 12.56553,
+            "latitude": 55.67594
+        }
+    },
+    {
+        "ip": "50.98.159.106",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Kelowna",
+            "longitude": -119.48568,
+            "latitude": 49.88307
+        }
+    },
+    {
+        "ip": "173.205.84.84",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Secaucus",
+            "longitude": -74.05653,
+            "latitude": 40.78955
+        }
+    },
+    {
+        "ip": "88.211.213.52",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Amsterdam",
+            "longitude": 4.88969,
+            "latitude": 52.37403
+        }
+    },
+    {
+        "ip": "68.0.181.5",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -112.07404,
+            "latitude": 33.44838
+        }
+    },
+    {
+        "ip": "167.234.38.111",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Gravelines",
+            "longitude": 2.12807,
+            "latitude": 50.98651
+        }
+    },
+    {
+        "ip": "12.217.212.42",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "78.87.26.48",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "GR",
+            "city": "Athens",
+            "longitude": 23.72784,
+            "latitude": 37.98376
+        }
+    },
+    {
+        "ip": "164.70.116.21",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "177.18.70.44",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "S\u00e3o Paulo",
+            "longitude": -46.63611,
+            "latitude": -23.5475
+        }
+    },
+    {
+        "ip": "47.100.182.137",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Shanghai",
+            "longitude": 121.45806,
+            "latitude": 31.22222
+        }
+    },
+    {
+        "ip": "158.180.80.194",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Chuncheon",
+            "longitude": 127.6996,
+            "latitude": 37.8625
+        }
+    },
+    {
+        "ip": "67.4.143.21",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Saint Paul",
+            "longitude": -93.09327,
+            "latitude": 44.94441
+        }
+    },
+    {
+        "ip": "51.89.243.144",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "168.138.8.248",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Melbourne",
+            "longitude": 144.75861,
+            "latitude": -37.752
+        }
+    },
+    {
+        "ip": "98.228.181.188",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "DeKalb",
+            "longitude": -88.75036,
+            "latitude": 41.92947
+        }
+    },
+    {
+        "ip": "85.147.106.23",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Groningen",
+            "longitude": 6.56667,
+            "latitude": 53.21917
+        }
+    },
+    {
+        "ip": "62.171.182.105",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "141.148.131.55",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -111.9984,
+            "latitude": 33.4665
+        }
+    },
+    {
+        "ip": "51.81.62.84",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "86.92.180.197",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Delft",
+            "longitude": 4.35556,
+            "latitude": 52.00667
+        }
+    },
+    {
+        "ip": "94.231.37.117",
+        "version": "Pufferfish 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Paris",
+            "longitude": 2.3488,
+            "latitude": 48.85341
+        }
+    },
+    {
+        "ip": "130.162.228.18",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "137.184.54.131",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "North Bergen",
+            "longitude": -74.01208,
+            "latitude": 40.80427
+        }
+    },
+    {
+        "ip": "141.94.99.160",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Lille",
+            "longitude": 3.05858,
+            "latitude": 50.63297
+        }
+    },
+    {
+        "ip": "163.44.98.194",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "24.240.234.67",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Fort Worth",
+            "longitude": -97.356,
+            "latitude": 32.7968
+        }
+    },
+    {
+        "ip": "103.195.103.141",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.232,
+            "latitude": 25.813
+        }
+    },
+    {
+        "ip": "79.127.234.122",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Chicago",
+            "longitude": -87.65005,
+            "latitude": 41.85003
+        }
+    },
+    {
+        "ip": "12.217.212.142",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "La Blanca",
+            "longitude": -98.03778,
+            "latitude": 26.29285
+        }
+    },
+    {
+        "ip": "5.9.173.229",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "130.61.145.240",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "51.83.230.235",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "85.215.76.19",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "173.240.149.250",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Secaucus",
+            "longitude": -74.05653,
+            "latitude": 40.78955
+        }
+    },
+    {
+        "ip": "5.150.247.18",
+        "version": "1.21",
+        "location": {
+            "country_code": "SE",
+            "city": "Stockholm",
+            "longitude": 18.06871,
+            "latitude": 59.32938
+        }
+    },
+    {
+        "ip": "162.198.36.183",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Mesquite",
+            "longitude": -96.59916,
+            "latitude": 32.7668
+        }
+    },
+    {
+        "ip": "159.69.5.72",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.07752,
+            "latitude": 49.45421
+        }
+    },
+    {
+        "ip": "51.222.184.114",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "50.20.252.138",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "160.251.138.230",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "160.251.168.37",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "163.44.97.134",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "193.23.126.225",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "37.10.105.109",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Sydney",
+            "longitude": 151.20732,
+            "latitude": -33.86785
+        }
+    },
+    {
+        "ip": "204.77.4.53",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "66.59.211.45",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "160.251.208.229",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Yamato",
+            "longitude": 139.45101,
+            "latitude": 35.47276
+        }
+    },
+    {
+        "ip": "82.122.49.203",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Antibes",
+            "longitude": 7.12487,
+            "latitude": 43.58127
+        }
+    },
+    {
+        "ip": "69.213.230.177",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Athens",
+            "longitude": -83.37794,
+            "latitude": 33.96095
+        }
+    },
+    {
+        "ip": "188.165.206.196",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Lille",
+            "longitude": 3.05858,
+            "latitude": 50.63297
+        }
+    },
+    {
+        "ip": "84.19.186.47",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "Munich",
+            "longitude": 11.57549,
+            "latitude": 48.13743
+        }
+    },
+    {
+        "ip": "216.232.253.95",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Burnaby",
+            "longitude": -122.95263,
+            "latitude": 49.26636
+        }
+    },
+    {
+        "ip": "160.251.143.36",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "76.130.142.236",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Colorado Springs",
+            "longitude": -104.82136,
+            "latitude": 38.83388
+        }
+    },
+    {
+        "ip": "68.10.86.213",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Norfolk",
+            "longitude": -76.28522,
+            "latitude": 36.84681
+        }
+    },
+    {
+        "ip": "134.255.219.147",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "51.38.156.65",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "174.72.63.82",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -112.07404,
+            "latitude": 33.44838
+        }
+    },
+    {
+        "ip": "62.104.105.6",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "88.150.171.235",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "103.195.101.231",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.232,
+            "latitude": 25.813
+        }
+    },
+    {
+        "ip": "95.216.18.79",
+        "version": "1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Helsinki",
+            "longitude": 24.93545,
+            "latitude": 60.16952
+        }
+    },
+    {
+        "ip": "92.145.124.183",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Grenoble",
+            "longitude": 5.71479,
+            "latitude": 45.17869
+        }
+    },
+    {
+        "ip": "207.113.184.45",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Plymouth",
+            "longitude": -86.30973,
+            "latitude": 41.34366
+        }
+    },
+    {
+        "ip": "162.33.23.137",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "141.219.175.217",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Houghton",
+            "longitude": -88.56901,
+            "latitude": 47.12187
+        }
+    },
+    {
+        "ip": "172.240.7.224",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Reston",
+            "longitude": -77.3411,
+            "latitude": 38.96872
+        }
+    },
+    {
+        "ip": "73.206.220.156",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Houston",
+            "longitude": -95.36327,
+            "latitude": 29.76328
+        }
+    },
+    {
+        "ip": "178.254.32.119",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "130.61.158.27",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "209.64.185.197",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "McAllen",
+            "longitude": -98.2303,
+            "latitude": 26.2556
+        }
+    },
+    {
+        "ip": "155.94.252.217",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "23.139.82.154",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "162.19.231.39",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "50.38.42.199",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Forest Grove",
+            "longitude": -123.11066,
+            "latitude": 45.51984
+        }
+    },
+    {
+        "ip": "150.136.152.50",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "143.177.211.186",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Winterswijk",
+            "longitude": 6.71944,
+            "latitude": 51.9725
+        }
+    },
+    {
+        "ip": "185.117.0.28",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "115.171.238.197",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Beijing",
+            "longitude": 116.39723,
+            "latitude": 39.9075
+        }
+    },
+    {
+        "ip": "72.222.130.13",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -112.07404,
+            "latitude": 33.44838
+        }
+    },
+    {
+        "ip": "49.12.223.74",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "65.108.5.167",
+        "version": "1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Helsinki",
+            "longitude": 24.93545,
+            "latitude": 60.16952
+        }
+    },
+    {
+        "ip": "79.124.106.41",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Rybnik",
+            "longitude": 18.54179,
+            "latitude": 50.09713
+        }
+    },
+    {
+        "ip": "94.210.167.71",
+        "version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
+        "location": {
+            "country_code": "NL",
+            "city": "Delfzijl",
+            "longitude": 6.91806,
+            "latitude": 53.33
+        }
+    },
+    {
+        "ip": "5.9.31.116",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "186.62.101.55",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "AR",
+            "city": "Trelew",
+            "longitude": -65.30505,
+            "latitude": -43.24895
+        }
+    },
+    {
+        "ip": "134.3.235.45",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Offenburg",
+            "longitude": 7.94495,
+            "latitude": 48.47377
+        }
+    },
+    {
+        "ip": "34.87.54.33",
+        "version": "1.21",
+        "location": {
+            "country_code": "SG",
+            "city": "Singapore",
+            "longitude": 103.85007,
+            "latitude": 1.28967
+        }
+    },
+    {
+        "ip": "76.21.94.22",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Redwood City",
+            "longitude": -122.23635,
+            "latitude": 37.48522
+        }
+    },
+    {
+        "ip": "32.219.36.118",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Waterbury",
+            "longitude": -73.0515,
+            "latitude": 41.55815
+        }
+    },
+    {
+        "ip": "35.228.138.41",
+        "version": "1.21",
+        "location": {
+            "country_code": "FI",
+            "city": "Lappeenranta",
+            "longitude": 28.18871,
+            "latitude": 61.05871
+        }
+    },
+    {
+        "ip": "84.119.105.57",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Essen",
+            "longitude": 7.01228,
+            "latitude": 51.45657
+        }
+    },
+    {
+        "ip": "104.10.244.33",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Bloomington",
+            "longitude": -86.52639,
+            "latitude": 39.16533
+        }
+    },
+    {
+        "ip": "189.158.64.164",
+        "version": "1.21",
+        "location": {
+            "country_code": "MX",
+            "city": "San Nicol\u00e1s de los Garza",
+            "longitude": -100.30222,
+            "latitude": 25.74167
+        }
+    },
+    {
+        "ip": "12.156.123.255",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "South Fork Estates",
+            "longitude": -98.70613,
+            "latitude": 27.26948
+        }
+    },
+    {
+        "ip": "218.102.78.114",
+        "version": "1.21",
+        "location": {
+            "country_code": "HK",
+            "city": "Sha Tin",
+            "longitude": 114.18333,
+            "latitude": 22.38333
+        }
+    },
+    {
+        "ip": "121.99.240.242",
+        "version": "1.21",
+        "location": {
+            "country_code": "NZ",
+            "city": "Auckland",
+            "longitude": 174.76349,
+            "latitude": -36.84853
+        }
+    },
+    {
+        "ip": "35.227.18.244",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "US",
+            "city": "North Charleston",
+            "longitude": -79.97481,
+            "latitude": 32.85462
+        }
+    },
+    {
+        "ip": "173.20.61.237",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Navarre",
+            "longitude": -86.86357,
+            "latitude": 30.40159
+        }
+    },
+    {
+        "ip": "50.20.250.254",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "51.81.220.27",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "212.227.51.71",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "5.206.44.20",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "RU",
+            "city": "Chelyabinsk",
+            "longitude": 61.42915,
+            "latitude": 55.15402
+        }
+    },
+    {
+        "ip": "192.18.156.223",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Toronto",
+            "longitude": -79.39864,
+            "latitude": 43.70643
+        }
+    },
+    {
+        "ip": "51.89.153.201",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "Bexley",
+            "longitude": 0.14866,
+            "latitude": 51.44162
+        }
+    },
+    {
+        "ip": "129.146.220.61",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Phoenix",
+            "longitude": -111.9984,
+            "latitude": 33.4665
+        }
+    },
+    {
+        "ip": "84.171.174.67",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Wuppertal",
+            "longitude": 7.14816,
+            "latitude": 51.25627
+        }
+    },
+    {
+        "ip": "51.81.147.228",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "89.33.12.133",
+        "version": "RaidMine 1.16-1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "118.16.190.79",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Gifu-shi",
+            "longitude": 136.76039,
+            "latitude": 35.42291
+        }
+    },
+    {
+        "ip": "157.90.92.219",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "168.100.163.7",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "114.32.177.157",
+        "version": "1.21",
+        "location": {
+            "country_code": "TW",
+            "city": "Taipei",
+            "longitude": 121.53185,
+            "latitude": 25.04776
+        }
+    },
+    {
+        "ip": "174.174.127.195",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Cedar Hills",
+            "longitude": -122.79843,
+            "latitude": 45.50484
+        }
+    },
+    {
+        "ip": "1.64.161.92",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "HK",
+            "city": "Hong Kong",
+            "longitude": 114.17469,
+            "latitude": 22.27832
+        }
+    },
+    {
+        "ip": "132.145.172.23",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "113.33.68.108",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "50.20.200.197",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Miami",
+            "longitude": -80.19366,
+            "latitude": 25.77427
+        }
+    },
+    {
+        "ip": "88.211.212.136",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Amsterdam",
+            "longitude": 4.88969,
+            "latitude": 52.37403
+        }
+    },
+    {
+        "ip": "73.63.16.22",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Salt Lake City",
+            "longitude": -111.89105,
+            "latitude": 40.76078
+        }
+    },
+    {
+        "ip": "209.205.113.71",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "168.138.8.97",
+        "version": "1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Melbourne",
+            "longitude": 144.75861,
+            "latitude": -37.752
+        }
+    },
+    {
+        "ip": "81.208.174.44",
+        "version": "1.21",
+        "location": {
+            "country_code": "SA",
+            "city": "Jeddah",
+            "longitude": 39.18624,
+            "latitude": 21.49012
+        }
+    },
+    {
+        "ip": "159.54.145.147",
+        "version": "1.21",
+        "location": {
+            "country_code": "MX",
+            "city": "El Colorado",
+            "longitude": -100.2452,
+            "latitude": 20.56185
+        }
+    },
+    {
+        "ip": "46.22.111.197",
+        "version": "1.21",
+        "location": {
+            "country_code": "IS",
+            "city": "Reykjav\u00edk",
+            "longitude": -21.89541,
+            "latitude": 64.13548
+        }
+    },
+    {
+        "ip": "97.117.0.216",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Kearns",
+            "longitude": -111.99633,
+            "latitude": 40.65995
+        }
+    },
+    {
+        "ip": "83.84.88.241",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "The Hague",
+            "longitude": 4.29861,
+            "latitude": 52.07667
+        }
+    },
+    {
+        "ip": "129.151.227.236",
+        "version": "1.21",
+        "location": {
+            "country_code": "FR",
+            "city": "Sept\u00e8mes-les-Vallons",
+            "longitude": 5.3539,
+            "latitude": 43.3722
+        }
+    },
+    {
+        "ip": "73.253.242.112",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Yarmouth",
+            "longitude": -70.22863,
+            "latitude": 41.70567
+        }
+    },
+    {
+        "ip": "31.214.221.203",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.2666,
+            "latitude": 34.0559
+        }
+    },
+    {
+        "ip": "137.220.25.94",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Okinawa",
+            "longitude": 127.80139,
+            "latitude": 26.33583
+        }
+    },
+    {
+        "ip": "138.3.244.196",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "45.136.28.25",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.0222,
+            "latitude": 49.4453
+        }
+    },
+    {
+        "ip": "8.137.111.251",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CN",
+            "city": "Chengdu",
+            "longitude": 104.06667,
+            "latitude": 30.66667
+        }
+    },
+    {
+        "ip": "76.14.106.202",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "San Francisco",
+            "longitude": -122.41942,
+            "latitude": 37.77493
+        }
+    },
+    {
+        "ip": "164.152.193.12",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "BR",
+            "city": "Vinhedo",
+            "longitude": -46.97528,
+            "latitude": -23.02972
+        }
+    },
+    {
+        "ip": "51.89.8.254",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "173.240.151.131",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "140.238.3.214",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Paripark",
+            "longitude": 126.8751,
+            "latitude": 37.5308
+        }
+    },
+    {
+        "ip": "68.234.141.21",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Gainesville",
+            "longitude": -82.32483,
+            "latitude": 29.65163
+        }
+    },
+    {
+        "ip": "174.113.197.247",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Saint John",
+            "longitude": -66.05616,
+            "latitude": 45.27076
+        }
+    },
+    {
+        "ip": "207.191.214.234",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Iowa City",
+            "longitude": -91.53017,
+            "latitude": 41.66113
+        }
+    },
+    {
+        "ip": "185.25.206.163",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "IT",
+            "city": "Milan",
+            "longitude": 9.18951,
+            "latitude": 45.46427
+        }
+    },
+    {
+        "ip": "24.208.48.153",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Appleton",
+            "longitude": -88.3564,
+            "latitude": 44.2425
+        }
+    },
+    {
+        "ip": "51.89.76.17",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "20.114.57.143",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Moses Lake",
+            "longitude": -119.27808,
+            "latitude": 47.13014
+        }
+    },
+    {
+        "ip": "84.247.172.141",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "135.148.66.75",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "86.88.0.141",
+        "version": "CraftBukkit 1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Rotterdam",
+            "longitude": 4.47917,
+            "latitude": 51.9225
+        }
+    },
+    {
+        "ip": "147.135.94.121",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "156.146.49.135",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Seattle",
+            "longitude": -122.33207,
+            "latitude": 47.60621
+        }
+    },
+    {
+        "ip": "45.8.132.113",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "160.251.72.137",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "45.30.191.53",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Woodstock",
+            "longitude": -84.51938,
+            "latitude": 34.10149
+        }
+    },
+    {
+        "ip": "130.61.161.132",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.6299,
+            "latitude": 50.1025
+        }
+    },
+    {
+        "ip": "87.177.128.155",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Schenefeld",
+            "longitude": 9.48333,
+            "latitude": 54.05
+        }
+    },
+    {
+        "ip": "162.33.17.161",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Secaucus",
+            "longitude": -74.05653,
+            "latitude": 40.78955
+        }
+    },
+    {
+        "ip": "84.135.172.169",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Lingen",
+            "longitude": 7.31845,
+            "latitude": 52.52143
+        }
+    },
+    {
+        "ip": "50.20.252.135",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Los Angeles",
+            "longitude": -118.24368,
+            "latitude": 34.05223
+        }
+    },
+    {
+        "ip": "174.172.135.121",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Baltimore",
+            "longitude": -76.61219,
+            "latitude": 39.29038
+        }
+    },
+    {
+        "ip": "69.221.235.116",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Cleveland",
+            "longitude": -84.87661,
+            "latitude": 35.15952
+        }
+    },
+    {
+        "ip": "123.255.60.95",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "NZ",
+            "city": "Auckland",
+            "longitude": 174.76349,
+            "latitude": -36.84853
+        }
+    },
+    {
+        "ip": "170.205.24.235",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "121.45.198.105",
+        "version": "1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Canberra",
+            "longitude": 149.12807,
+            "latitude": -35.28346
+        }
+    },
+    {
+        "ip": "144.21.59.28",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "78.135.85.233",
+        "version": "Pyro 1.21",
+        "location": {
+            "country_code": "TR",
+            "city": "Istanbul",
+            "longitude": 28.94966,
+            "latitude": 41.01384
+        }
+    },
+    {
+        "ip": "158.220.96.116",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "D\u00fcsseldorf",
+            "longitude": 6.77616,
+            "latitude": 51.22172
+        }
+    },
+    {
+        "ip": "174.6.105.57",
+        "version": "1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Vancouver",
+            "longitude": -123.11934,
+            "latitude": 49.24966
+        }
+    },
+    {
+        "ip": "37.10.102.187",
+        "version": "BungeeCord 1.8.x-1.21.x",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.08,
+            "latitude": 51.513
+        }
+    },
+    {
+        "ip": "149.36.3.124",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "195.201.242.87",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Falkenstein",
+            "longitude": 12.37129,
+            "latitude": 50.47788
+        }
+    },
+    {
+        "ip": "12.132.247.31",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "McAllen",
+            "longitude": -98.23001,
+            "latitude": 26.20341
+        }
+    },
+    {
+        "ip": "20.55.7.234",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Washington",
+            "longitude": -78.15944,
+            "latitude": 38.71345
+        }
+    },
+    {
+        "ip": "34.118.61.76",
+        "version": "Purpur 1.21",
+        "location": {
+            "country_code": "PL",
+            "city": "Warsaw",
+            "longitude": 21.01178,
+            "latitude": 52.22977
+        }
+    },
+    {
+        "ip": "62.146.178.62",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "St. Louis",
+            "longitude": -90.19789,
+            "latitude": 38.62727
+        }
+    },
+    {
+        "ip": "86.6.148.145",
+        "version": "1.21",
+        "location": {
+            "country_code": "GB",
+            "city": "London",
+            "longitude": -0.12574,
+            "latitude": 51.50853
+        }
+    },
+    {
+        "ip": "70.171.77.25",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "New Orleans",
+            "longitude": -90.07507,
+            "latitude": 29.95465
+        }
+    },
+    {
+        "ip": "73.227.246.94",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Holyoke",
+            "longitude": -72.6162,
+            "latitude": 42.20426
+        }
+    },
+    {
+        "ip": "90.187.154.233",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Hannover",
+            "longitude": 9.73322,
+            "latitude": 52.37052
+        }
+    },
+    {
+        "ip": "87.237.161.203",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Duisburg",
+            "longitude": 6.76516,
+            "latitude": 51.43247
+        }
+    },
+    {
+        "ip": "162.43.54.124",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Osaka",
+            "longitude": 135.50107,
+            "latitude": 34.69379
+        }
+    },
+    {
+        "ip": "147.135.105.186",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Portland",
+            "longitude": -122.67621,
+            "latitude": 45.52345
+        }
+    },
+    {
+        "ip": "57.129.6.67",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "81.243.159.119",
+        "version": "1.21",
+        "location": {
+            "country_code": "BE",
+            "city": "Manage",
+            "longitude": 4.23589,
+            "latitude": 50.50312
+        }
+    },
+    {
+        "ip": "135.148.64.216",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "89.58.27.59",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.0222,
+            "latitude": 49.4453
+        }
+    },
+    {
+        "ip": "5.161.213.138",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Ashburn",
+            "longitude": -77.48749,
+            "latitude": 39.04372
+        }
+    },
+    {
+        "ip": "101.175.145.237",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "AU",
+            "city": "Perth",
+            "longitude": 115.8614,
+            "latitude": -31.95224
+        }
+    },
+    {
+        "ip": "68.48.188.114",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Clinton Township",
+            "longitude": -82.91992,
+            "latitude": 42.58698
+        }
+    },
+    {
+        "ip": "108.181.172.75",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Dallas",
+            "longitude": -96.80667,
+            "latitude": 32.78306
+        }
+    },
+    {
+        "ip": "85.214.37.180",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Berlin",
+            "longitude": 13.41053,
+            "latitude": 52.52437
+        }
+    },
+    {
+        "ip": "66.248.194.217",
+        "version": "1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Lelystad",
+            "longitude": 5.475,
+            "latitude": 52.50833
+        }
+    },
+    {
+        "ip": "118.27.228.58",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Tokyo",
+            "longitude": 139.69171,
+            "latitude": 35.6895
+        }
+    },
+    {
+        "ip": "139.177.98.10",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "MX",
+            "city": "Radica",
+            "longitude": -100.22306,
+            "latitude": 25.77639
+        }
+    },
+    {
+        "ip": "139.99.52.89",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "SG",
+            "city": "Singapore",
+            "longitude": 103.85007,
+            "latitude": 1.28967
+        }
+    },
+    {
+        "ip": "160.251.172.189",
+        "version": "1.21",
+        "location": {
+            "country_code": "JP",
+            "city": "Asagaya-minami",
+            "longitude": 139.63745,
+            "latitude": 35.70206
+        }
+    },
+    {
+        "ip": "89.150.149.165",
+        "version": "1.21",
+        "location": {
+            "country_code": "DK",
+            "city": "Farum",
+            "longitude": 12.36066,
+            "latitude": 55.80858
+        }
+    },
+    {
+        "ip": "142.132.165.204",
+        "version": "1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "N\u00fcrnberg",
+            "longitude": 11.07752,
+            "latitude": 49.45421
+        }
+    },
+    {
+        "ip": "12.132.247.191",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "US",
+            "city": "McAllen",
+            "longitude": -98.23001,
+            "latitude": 26.20341
+        }
+    },
+    {
+        "ip": "50.33.31.54",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Jordan",
+            "longitude": -93.6269,
+            "latitude": 44.66691
+        }
+    },
+    {
+        "ip": "37.221.215.203",
+        "version": "CraftBukkit 1.21",
+        "location": {
+            "country_code": "HU",
+            "city": "Budapest",
+            "longitude": 19.04045,
+            "latitude": 47.49835
+        }
+    },
+    {
+        "ip": "51.222.244.41",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "CA",
+            "city": "Beauharnois",
+            "longitude": -73.8725,
+            "latitude": 45.31341
+        }
+    },
+    {
+        "ip": "212.80.8.149",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "DE",
+            "city": "Frankfurt am Main",
+            "longitude": 8.68417,
+            "latitude": 50.11552
+        }
+    },
+    {
+        "ip": "34.47.110.186",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Seoul",
+            "longitude": 126.9784,
+            "latitude": 37.566
+        }
+    },
+    {
+        "ip": "50.218.112.135",
+        "version": "Velocity 1.7.2-1.21",
+        "location": {
+            "country_code": "US",
+            "city": "Grand Rapids",
+            "longitude": -85.66809,
+            "latitude": 42.96336
+        }
+    },
+    {
+        "ip": "173.237.61.20",
+        "version": "1.21",
+        "location": {
+            "country_code": "US",
+            "city": "San Jose",
+            "longitude": -121.89496,
+            "latitude": 37.33939
+        }
+    },
+    {
+        "ip": "125.228.208.174",
+        "version": "1.21",
+        "location": {
+            "country_code": "TW",
+            "city": "Tainan",
+            "longitude": 120.21333,
+            "latitude": 22.99083
+        }
+    },
+    {
+        "ip": "149.130.183.117",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "CO",
+            "city": "Funza",
+            "longitude": -74.212,
+            "latitude": 4.7164
+        }
+    },
+    {
+        "ip": "34.47.120.160",
+        "version": "Spigot 1.21",
+        "location": {
+            "country_code": "KR",
+            "city": "Seoul",
+            "longitude": 126.9784,
+            "latitude": 37.566
+        }
+    },
+    {
+        "ip": "86.82.255.71",
+        "version": "Paper 1.21",
+        "location": {
+            "country_code": "NL",
+            "city": "Hoofddorp",
+            "longitude": 4.68889,
+            "latitude": 52.3025
+        }
+    }
+]
