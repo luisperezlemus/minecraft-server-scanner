@@ -1,6 +1,19 @@
-- create a python script to merge all the batch scans into one file and delete their individual files
+- create a python script to merge all the batch scans into one file and delete their individual files (DONE)
 - then use mc_ip_checker to verify the that server exists, then add it to a json file that will
 contain all the online servers
 - in a separate, iterate through all online servers and a player count is > 0 and is not already inside the json file, 
 then append it. If the server is in the list and has no online players, remove it from the list
-- 
+- create a script that reads ip ranges in a file and then does a batch scan for the ranges (DONE)
+- get country code from ip address, this can allow for filtering in other scripts if the user
+wanted to focus on specific country
+- update bash script to pass through rate in case I want to run multiple scans and split the rate between them
+- automate get_ip_ranges to have the user input the country code and then output the results into a text file and 
+then have a bash script to run masscan for each ip range (DONE)
+- masscan has a --open-only option, might want to use that (DONE)
+- collect ip ranges from big ISPs and servers to scan those as well since people can host their servers on there (partially complete)
+- set timeout for mc_ip_checker to 5 seconds instead of 8
+- when scanning for mc_servers, store the servers in a json file, include the server details, country, and a last_checked
+entry where it updates on when the server was last checked
+- modify get_ip_ranges script to receive the mininum size of the subnet and also the maximum (optional, 
+can run still not if provided). For the country code, if the user wants to receive all, then accept ALL as an argument
+and have the program return ranges for all countries

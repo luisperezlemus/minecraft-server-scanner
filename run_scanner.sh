@@ -1,14 +1,15 @@
 #!/bin/bash
 
-if ["$#" -ne 2 ]; then
-    echo "Usage: $0 <IP_RANGE> <PORTS>"
-    echo "Example: $0 101.0.0.0-102.0.0.0 80,443"
+if ["$#" -ne 5 ]; then
+    echo "Usage: $0 <IP_RANGE> <PORTS> <RATE> <BATCH_SIZE>"
+    echo "Example: $0 101.0.0.0-102.0.0.0 80,443 1000 100000"
     exit 1
 fi
 
 IP_RANGE="$1"
 PORTS="$2"
-RATE="1000"
+RATE="$3"
+BATCH_SIZE="$4"
 
 # Extract the start and end IPs from the provided range
 START_IP=$(echo $IP_RANGE | cut -d'-' -f1)
@@ -52,7 +53,7 @@ scan_in_batches() {
 
         echo "Scanning from $start_ip to $end_ip"
         mkdir -p batch_scan/$START_IP-$END_IP
-        sudo masscan $start_ip-$end_ip -p$PORTS --rate $RATE --excludefile exclude.conf -oL batch_scan/$START_IP-$END_IP/scan-$start_ip-$end_ip.txt
+        sudo masscan $start_ip-$end_ip -p$PORTS --rate $RATE --excludefile exclude.conf -oL batch_scan/$START_IP-$END_IP/scan-$start_ip-$end_ip.txt --wait 3 --open-only
 
         # Check if we have reached or exceeded the end of the range
         if [ "$start_ip_num" -ge "$end_ip_num" ]; then
@@ -67,4 +68,4 @@ scan_in_batches() {
 
 
 
-scan_in_batches $START_IP $END_IP 500000
+scan_in_batches $START_IP $END_IP $BATCH_SIZE

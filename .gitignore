@@ -167,3 +167,12 @@ cython_debug/
 /scan_results
 range_status.txt
 working_servers.txt
+IP2LOCATION-LITE-DB1.CSV
+paused.conf
+/ip_ranges
+*.bak
+completed_isps.txt
+major_isps.txt
+merged_ips.txt
+
+.DS_Store
