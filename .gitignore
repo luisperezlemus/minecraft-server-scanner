@@ -176,3 +176,4 @@ major_isps.txt
 merged_ips.txt
 
 .DS_Store
+*.json
