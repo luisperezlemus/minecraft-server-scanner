@@ -14,3 +14,6 @@ and have the program return ranges for all countries (WIP)
 
 - If active_servers.json is not empty and the user wants to refresh the list w/ players online, then have a script to 
 look through the active_servers list and then update active players online list (ON HOLD)
+
+- Update get_ip_ranges.py to read scanned_ranges.csv when getting addresses to scan, if the datetime has been over
+6 months from scanning, try them again. 6 months is chosen from random, could be whatever timeframe we want

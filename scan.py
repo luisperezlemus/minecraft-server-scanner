@@ -1,15 +1,8 @@
-# TODO: go through the ip_ranges directory, and given the country code
-# scan through the ip ranges in the text file
-# we run run_scanner.sh to run and this utilizes batch scanning
-# so we will create temporary folders to store the ranges
-# once the range is complete, we remove it from the ip ranges file
-# and remove it from the temporary folder and add all the results
-# into the working directory and then into a file called scan_results_<country_code>.txt
-# this might be counterintuitive but the batch_scan folder approach generates too many folders to work with
-
 # after selecting the country you want, and the parameters for the ip block sizes, this script will
 # read the ip-ranges-{country_code}.txt file in the ip_ranges folder split the ip ranges into batches
 # based on batch_size, then run the scanner for each batch. The results will be stored in temp/{country_code}/results.txt
+# once all the ip_ranges have been scanned, the results will be stored in a sqlite database and the temp folder will be deleted
+# the table that stores this information is named scan_results
 
 import os
 import subprocess
@@ -73,7 +66,7 @@ def process_batches(ip_block, file_path, ports, rate, country_code):
         if os.path.exists(f"temp/{country_code}/scan.txt"):
             with open(f"temp/{country_code}/scan.txt", "r") as f:
                 output = f.readlines()
-                print(len(output))
+                print(f"found {len(output)} hosts in this batch")
                 if len(output) > 0:
                     output = output[1:-1]
                 else:
@@ -149,14 +142,14 @@ def scan_ranges(ports, rate, batch_size, country_code):
                 start_ip = ip_range.split("-")[0]
                 end_ip = ip_range.split("-")[1]
 
-                print('start ip:', start_ip)
-                print('end ip: ', end_ip)
+                # print('start ip:', start_ip)
+                # print('end ip: ', end_ip)
 
                 start_ip_int = ip_to_int(start_ip)
                 end_ip_int = ip_to_int(end_ip)
 
-                print(f"start ip int to ipv4: {int_to_ip(start_ip_int)}")
-                print(f"end ip int to ipv4: {int_to_ip(end_ip_int)}")
+                # print(f"start ip int to ipv4: {int_to_ip(start_ip_int)}")
+                # print(f"end ip int to ipv4: {int_to_ip(end_ip_int)}")
 
                 batch_size = int(batch_size)
                 batches = []
@@ -247,24 +240,84 @@ batch_size = sys.argv[4]
 
 # begin scanning
 scan_ranges(ports, rate, batch_size, country_code)
+print("Scanning complete, saving to database...")
 
-
-# TODO: scanning is complete, now we want to combine all the results into one file
 import sqlite3
+import shutil
 
+# create a table to store the scanning results
 def initialize_results_db(db_path):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS scan_results (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            ip_address TEXT
+            ip_address TEXT,
             port INTEGER NOT NULL,
             country_code TEXT NOT NULL,
             datetime TIMESTAMP DEFAULT CURRENT_TIMESTAMP          
-        
         )
     """
     )
     conn.commit()
     conn.close()
+
+# creates an entry in the scan_results table
+def insert_result(db_path, ip_address, port, country_code):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    cursor.execute("""
+        INSERT INTO scan_results (ip_address, port, country_code, datetime) VALUES (?, ?, ?, ?)
+    """, (ip_address, port, country_code, current_time))
+    conn.commit()
+    conn.close()
+
+def process_and_store_results(results_path, db_path, country_code):
+    with open(results_path, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        parts = line.split()
+        if len(parts) == 5 and parts[0] == "open":
+            port = int(parts[2])
+            ip_address = parts[3]
+            insert_result(db_path, ip_address, port, country_code)
+
+def remove_duplicates(db_path):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    cursor.execute(""" 
+        DELETE FROM scan_results
+        WHERE id NOT IN (
+            SELECT MAX(id)
+            FROM scan_results
+            GROUP BY ip_address, port)
+    """
+    )
+    conn.commit()
+    conn.close()
+
+db_path = "scan_db.db"
+results_path = f"temp/{country_code}/results.txt"
+
+
+if os.path.exists(f"temp/{country_code}/results.txt"):
+    initialize_results_db(db_path)
+    process_and_store_results(results_path, db_path, country_code)
+    remove_duplicates(db_path) 
+    
+    # TODO: delete the temp folder after the scan is complete and the results are stored in the database
+    # remove the temporary directory that was created when scanning
+    shutil.rmtree(f"temp/{country_code}")
+    # if there are no other countries being scanned, then remove the temp directory as well
+    if len(os.listdir("temp")) == 0:
+        os.rmdir("temp")
+
+    # remove the ip ranges file located in ip_ranges-<country_code>.txt
+    if os.path.exists(f"ip_ranges/ip-ranges-{country_code.upper()}.txt"):
+        os.remove(f"ip_ranges/ip-ranges-{country_code.upper()}.txt")
+    if len(os.listdir("ip_ranges")) == 0:
+        os.rmdir("ip_ranges")
+
+    print("Results saved to database")
