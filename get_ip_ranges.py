@@ -3,6 +3,7 @@ import pandas as pd
 import ipaddress
 import os
 import sys
+from datetime import datetime, timedelta
 
 
 # example of this script:
@@ -73,15 +74,20 @@ with open('IP2LOCATION-LITE-DB1.csv', 'r') as f:
     #     # filter out the existing ranges to avoid rescanning them
     #     df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
 
-    # alernative way to track scanned IPs, simply track them in one text file
-    # instead of creating a folder for each range
-    # TODO: perhaps include a scanning status to know which ranges have been scanned
-    with open("scanned_ranges.txt", "r") as scanned_ranges_file:
-        scanned_ranges = [line.strip() for line in scanned_ranges_file if line.strip()]
-        # print(scanned_ranges)
-        for scanned_range in scanned_ranges:
-            start, end = scanned_range.split('-')
-            df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
+    # Do not scan the ranges that have been scanned in the last 6 months
+    # Load scanned_ranges.csv into a DataFrame
+    scanned_df = pd.read_csv('scanned_ranges.csv')
+    # Convert the 'datetime' column to datetime objects
+    scanned_df['datetime'] = pd.to_datetime(scanned_df['datetime'])
+    # Calculate the cutoff date (6 months ago from today)
+    cutoff_date = datetime.now() - timedelta(days=6*30)
+    # Keep only the recent scans (after the cutoff date)
+    scanned_df = scanned_df[scanned_df['datetime'] > cutoff_date]
+    # Exclude the scanned ranges from the main DataFrame
+    for index, row in scanned_df.iterrows():
+        ip_range = row['ip_range']
+        start, end = ip_range.split('-')
+        df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
    
     print(df)
 
