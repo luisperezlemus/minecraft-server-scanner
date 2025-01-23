@@ -4,11 +4,17 @@ import ipaddress
 import os
 import sys
 
+
+# example of this script:
+# python get_ip_ranges.py <country_code> <min_hosts> <max_hosts>
+# python get_ip_ranges.py US 50 1000000
+
+if len(sys.argv) < 4:
+    print("Please provide the country code, minimum number of hosts and maximum number of hosts as command line arguments")
+    sys.exit(1)
+
 # Get the country code from the command line argument
 country_code = sys.argv[1]
-
-# Print the country code for verification
-# print(f"Country code: {country_code}")
 
 # Open the CSV file
 # link to download: https://lite.ip2location.com/database/ip-country?lang=en_US
@@ -20,7 +26,6 @@ with open('IP2LOCATION-LITE-DB1.csv', 'r') as f:
 
     # Rename the columns
     df.columns = ['start', 'end', 'code', 'name']
-
 
     # convert the start and end columns to integers
     df['start'] = df['start'].astype(int)
@@ -40,9 +45,9 @@ with open('IP2LOCATION-LITE-DB1.csv', 'r') as f:
     df['start'] = df['start'].apply(lambda x: ipaddress.ip_address(x))
     df['end'] = df['end'].apply(lambda x: ipaddress.ip_address(x))
 
-    # since there's many ip addresses, we filter out the ones with more than 1 million to get higher ranges
-    # TODO: pass number of hosts per range as a command line argument
-    df = df[df['diff'] > 100000]
+    # since there's many ip addresses, we filter out by the number of hosts specified in the command
+    # line arguments
+    df = df[(df['diff'] > int(sys.argv[2])) & (df['diff'] < int(sys.argv[3]))]
 
     # Read the exclude.conf file because government and military subnets IPs are very large so we don't want to waste time on them
     with open('exclude.conf', 'r') as exclude_file:
@@ -57,16 +62,26 @@ with open('IP2LOCATION-LITE-DB1.csv', 'r') as f:
 
     # Navigate through the folders inside the batch_scan folder because we don't want to list the ranges
     # that have already been scanned
-    for folder_name in os.listdir('batch_scan'):
-        # print(folder_name)
+    # TODO: create a better way to track scanned ranges, because the current method creates lots of folders
+    # for folder_name in os.listdir('batch_scan'):
+    #     # print(folder_name)
         
-        # Split the folder name using the '-'
-        start, end = folder_name.split('-')
-        # print(start, end)
+    #     # Split the folder name using the '-'
+    #     start, end = folder_name.split('-')
+    #     # print(start, end)
         
-        # filter out the existing ranges to avoid rescanning them
-        df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
+    #     # filter out the existing ranges to avoid rescanning them
+    #     df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
 
+    # alernative way to track scanned IPs, simply track them in one text file
+    # instead of creating a folder for each range
+    # TODO: perhaps include a scanning status to know which ranges have been scanned
+    with open("scanned_ranges.txt", "r") as scanned_ranges_file:
+        scanned_ranges = [line.strip() for line in scanned_ranges_file if line.strip()]
+        # print(scanned_ranges)
+        for scanned_range in scanned_ranges:
+            start, end = scanned_range.split('-')
+            df = df[(df['start'].astype(str) != start) & (df['end'].astype(str) != end)]
    
     print(df)
 

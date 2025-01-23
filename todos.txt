@@ -1,17 +1,16 @@
-- then use mc_ip_checker to verify the that server exists, then add it to a json file that will
+- then use mc_ip_checker to verify the that server exists, then add it to a json (or some other alternative) file that will
 contain all the online servers
 - in a separate file, iterate through all online servers and check if the player count is > 0 and is not already inside 
 the json file. If the server has players online, append it to the file, if it is in the list, update the player count and status. 
 If the server is in the list and has no online players, remove it from the list.
 - get country code from ip address, this can allow for filtering in other scripts if the user
 wanted to focus on specific country
-- update bash scripts to pass through rate in case I want to run multiple scans and split the rate between them
-- collect ip ranges from big ISPs and servers to scan those as well since people can host their servers on there (partially complete)
-- set timeout for mc_ip_checker to 5 seconds instead of 8 (DONE)
+- collect ip ranges from big ISPs and servers to scan those as well since people can host their servers on there (ON HOLD)
 - when scanning for mc_servers, store the servers in a json file, include the server details, country, and a last_checked
 entry where it updates on when the server was last checked
 - modify get_ip_ranges script to receive the mininum size of the subnet and also the maximum (optional, 
 can run still not if provided). For the country code, if the user wants to receive all, then accept ALL as an argument
-and have the program return ranges for all countries
-- ISSUE: should have passed in the country code when doing the masscans, will now need a way to acess the csv files
-to find what subnet the ip lands under and then extract the country code from it
+and have the program return ranges for all countries (WIP)
+
+- If active_servers.json is not empty and the user wants to refresh the list w/ players online, then have a script to 
+look through the active_servers list and then update active players online list (ON HOLD)
