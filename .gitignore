@@ -179,3 +179,6 @@ merged_ips.txt
 /temp
 .DS_Store
 *.json
+filtered_ips.txt
+scan_db.db
+/OLD

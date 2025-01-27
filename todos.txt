@@ -1,19 +1,24 @@
-- then use mc_ip_checker to verify the that server exists, then add it to a json (or some other alternative) file that will
-contain all the online servers
-- in a separate file, iterate through all online servers and check if the player count is > 0 and is not already inside 
-the json file. If the server has players online, append it to the file, if it is in the list, update the player count and status. 
-If the server is in the list and has no online players, remove it from the list.
-- get country code from ip address, this can allow for filtering in other scripts if the user
-wanted to focus on specific country
-- collect ip ranges from big ISPs and servers to scan those as well since people can host their servers on there (ON HOLD)
-- when scanning for mc_servers, store the servers in a json file, include the server details, country, and a last_checked
-entry where it updates on when the server was last checked
+*** get_ip_ranges.py ***
+
 - modify get_ip_ranges script to receive the mininum size of the subnet and also the maximum (optional, 
 can run still not if provided). For the country code, if the user wants to receive all, then accept ALL as an argument
-and have the program return ranges for all countries (WIP)
+and have the program return ranges for all countries
+
+*** scan.py ***
+- When we are scanning for all ip ranges, make sure to calculate the country that the IP address is in before
+appending it to the results. This could be a simple IF statement in the insert_result function
+- redo scan_results table to have the ip address and port as the primary key. if the ip and port is found again during 
+our scanning, we simply replace the new results from the previous one. 
+
+
+*** mc_status_check.py ***
+
+
+*** FUTURE IDEAS ***
+
+- collect ip ranges from big ISPs and servers to scan those as well since people can host their servers on there (ON HOLD)
 
 - If active_servers.json is not empty and the user wants to refresh the list w/ players online, then have a script to 
 look through the active_servers list and then update active players online list (ON HOLD)
 
-- Update get_ip_ranges.py to read scanned_ranges.csv when getting addresses to scan, if the datetime has been over
-6 months from scanning, try them again. 6 months is chosen from random, could be whatever timeframe we want
+- Have an automated script that refreshes the scanning of online servers to see if any players have joined them
