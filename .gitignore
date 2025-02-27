@@ -182,3 +182,6 @@ merged_ips.txt
 filtered_ips.txt
 scan_db.db
 /OLD
+/node_modules
+/scanner/ip_ranges
+/scanner/temp

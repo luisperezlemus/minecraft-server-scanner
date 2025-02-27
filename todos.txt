@@ -22,3 +22,8 @@ our scanning, we simply replace the new results from the previous one.
 look through the active_servers list and then update active players online list (ON HOLD)
 
 - Have an automated script that refreshes the scanning of online servers to see if any players have joined them
+
+
+*** Website ***
+- adjust the number of server cards and the size of them depending on the size of the user's screen. So a computer would
+show more per page

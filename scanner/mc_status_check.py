@@ -183,7 +183,7 @@ def main(country_code, max_threads):
 
 
 
-max_threads = 1000
+max_threads = 500
 country_code = 'ALL'
 if len(sys.argv) == 3:
     max_threads = sys.argv[1]
