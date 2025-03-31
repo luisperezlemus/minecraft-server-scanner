@@ -4,10 +4,8 @@ import { useState, useEffect} from "react"
 
 import CountryDropDown from "./CountryDropDown"
 
-const FilterBox = () => {
-    const [port, setPort] = useState("")
-    const [version, setVersion] = useState("")
-    const [country, setCountry] = useState("")
+const FilterBox = ({port, setPort, version, setVersion, country, setCountry}) => {
+
     const [hasInteracted, setHasInteracted] = useState([false, false, false])
 
     useEffect(() => {
@@ -49,6 +47,7 @@ const FilterBox = () => {
             <select className={`p-2 border rounded text-black transition-opacity duration-300 ${hasInteracted[0] ? "opacity-100" : "opacity-50"}`}
               value={port} onChange={handleFilterChange(0, "port", setPort)}>
                 <option value="">All</option>
+                <hr />
                 <option value="25565">Java</option>
                 <option value="19132">Bedrock</option>
             </select>
@@ -58,6 +57,7 @@ const FilterBox = () => {
             <select className={`p-2 border rounded text-black transition-opacity duration-300 ${hasInteracted[1] ? "opacity-100" : "opacity-50"}`} 
               value={version} onChange={handleFilterChange(1, "version", setVersion)}>
                 <option value="">All</option>
+                <hr />
                 <option value="1.0">1.0</option>
                 <option value="1.2">1.2</option>
                 <option value="1.3">1.3</option>

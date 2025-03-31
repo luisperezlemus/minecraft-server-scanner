@@ -16,12 +16,44 @@ export async function GET(req) {
     const limit = parseInt(url.searchParams.get('limit') || "10", 10)
     const offset = (page - 1) * limit
 
+    const port = url.searchParams.get('port')
+    const version = url.searchParams.get('version')
+    const country = url.searchParams.get('country')
+
     try {
         const db = await openDb();
-        const online_servers = await db.all("SELECT * FROM online_servers ORDER BY last_checked DESC LIMIT ? OFFSET ?", [limit, offset])
-        
-        const total = await db.get("SELECT COUNT(*) as count FROM online_servers")
+        let query = "SELECT * FROM online_servers WHERE 1=1"
+        let countQuery = "SELECT COUNT(*) as count FROM online_servers WHERE 1=1"
+        let params = []
+        let countParams = []
 
+        if (port) {
+            query += " AND port = ?"
+            countQuery += " AND port = ?"
+            params.push(port)
+            countParams.push(port)
+        }
+
+        if (version) {
+            query += " AND version = ?"
+            countQuery += " AND version = ?"
+            params.push(version)
+            countParams.push(version)
+        }
+
+        if (country) {
+            query += " AND country_code = ?"
+            countQuery += " AND country_code = ?"
+            params.push(country)
+            countParams.push(country)
+        }
+
+        query += " ORDER BY last_checked DESC LIMIT ? OFFSET ?"
+        params.push(limit, offset)
+
+        const online_servers = await db.all(query, params)
+        const total = await db.get(countQuery, countParams)
+        
         return Response.json({
             online_servers,
             total: total.count,

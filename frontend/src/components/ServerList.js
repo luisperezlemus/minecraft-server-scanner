@@ -3,7 +3,7 @@
 import {useEffect, useState} from "react"
 import ServerCard from "./ServerCard"
 
-const ServerList = () => {
+const ServerList = ({port, version, country}) => {
     const [servers, setServers] = useState([])
     const [page, setPage] = useState(1)
     const [totalPages, setTotalPages] = useState(1)
@@ -40,24 +40,24 @@ const ServerList = () => {
 
         return () => window.removeEventListener('resize', updateLimit)
     }, [])
-
-    // this only runs once to fetch the server count
-    useEffect(() => {
-        async function fetchServerCount() {
-            const res = await fetch('/api/serverCount')
-            const data = await res.json()
-            setServerCount(data.serverCount)
-        }
-        fetchServerCount()
-    }, [])
-
+    
     useEffect(() => {
         if (limit === null) return
         const fetchServers = async () => {
             try {
-                const response = await fetch(`/api/servers?page=${page}&limit=${limit}`)
+                console.log("Fetching servers...")
+                console.log(port, version, country)
+                setLoading(true)
+
+                const queryParams = new URLSearchParams({page, limit})
+                if (port && port != "") queryParams.append('port', port)
+                if (version && version != "") queryParams.append('version', version)
+                if (country && country != "") queryParams.append('country', country)
+
+                const response = await fetch(`/api/servers?${queryParams.toString()}`)
                 const data = await response.json()
                 setServers(data.online_servers)
+                setServerCount(data.total)
                 setTotalPages(data.totalPages)
             } 
             catch (error) {
@@ -68,7 +68,7 @@ const ServerList = () => {
             }
         }
         fetchServers()
-    }, [page, limit])
+    }, [page, limit, port, version, country])
 
     if (loading) return <p>Fetching Servers...</p>
 
