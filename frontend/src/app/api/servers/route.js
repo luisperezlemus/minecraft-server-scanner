@@ -2,7 +2,9 @@ import sqlite3 from 'sqlite3';
 import { open } from 'sqlite';
 import path from 'path';
 
+// Eventually will use postgresql
 const dbPath = path.resolve(process.cwd(), '../scanner/scan_db.db');
+
 async function openDb() {
     return open({
         filename: dbPath,
@@ -27,7 +29,8 @@ export async function GET(req) {
         let params = []
         let countParams = []
 
-        if (port) {
+        // conditional because not all arguments are passed
+        if (port) { 
             query += " AND port = ?"
             countQuery += " AND port = ?"
             params.push(port)
@@ -35,10 +38,10 @@ export async function GET(req) {
         }
 
         if (version) {
-            query += " AND version = ?"
-            countQuery += " AND version = ?"
-            params.push(version)
-            countParams.push(version)
+            query += " AND version LIKE ?"
+            countQuery += " AND version LIKE ?"
+            params.push(version + ".%")
+            countParams.push(version + ".%")
         }
 
         if (country) {
@@ -48,7 +51,7 @@ export async function GET(req) {
             countParams.push(country)
         }
 
-        query += " ORDER BY last_checked DESC LIMIT ? OFFSET ?"
+        query += " ORDER BY last_checked DESC LIMIT ? OFFSET ?" // ordered by most recent
         params.push(limit, offset)
 
         const online_servers = await db.all(query, params)

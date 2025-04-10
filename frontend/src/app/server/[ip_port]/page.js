@@ -26,8 +26,8 @@ const ServerPage = () => {
         fetchServer()
     }, [ip_port])
 
-    if (loading) return <p>Loading...</p>
-    if (!server) return <p>Server not found</p>
+    if (loading) return <p className="text-center text-lg mt-10">Loading...</p>
+    if (!server) return <p className="text-center text-5xl mt-10">Server not found</p>
 
 
     return (

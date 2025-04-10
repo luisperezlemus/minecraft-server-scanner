@@ -70,7 +70,7 @@ const ServerList = ({port, version, country}) => {
         fetchServers()
     }, [page, limit, port, version, country])
 
-    if (loading) return <p>Fetching Servers...</p>
+    if (loading) return <p className="text-center text-lg">Fetching Servers...</p>
 
     return (
         <div className="p-4 flex flex-col items-center">

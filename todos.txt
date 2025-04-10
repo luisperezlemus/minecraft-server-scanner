@@ -35,3 +35,4 @@ Example: SELECT * FROM online_servers WHERE version LIKE '1.21.%';
 
 - truncate the dropdown for countries and list all possible countries even if there's no existing servers in that country
 - set a state variable that keeps track of the current page. Reset to first page if any of the filters are modified
+- reset to first page when filters are changed
