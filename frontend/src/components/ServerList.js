@@ -1,15 +1,23 @@
 "use client"
 
 import {useEffect, useState} from "react"
+import {useRouter, useSearchParams} from "next/navigation"
+
 import ServerCard from "./ServerCard"
 
 const ServerList = ({port, version, country}) => {
+    const router = useRouter()
+    const searchParams = useSearchParams()
+
+    const initialPage = parseInt(searchParams.get('page')) || 1
+    const [previousFilter, setPreviousFilter] = useState({port, version, country})
     const [servers, setServers] = useState([])
-    const [page, setPage] = useState(1)
+    const [page, setPage] = useState(initialPage)
     const [totalPages, setTotalPages] = useState(1)
     const [loading, setLoading] = useState(true)
     const [serverCount, setServerCount] = useState(0)
     const [limit, setLimit] = useState(null)
+
 
     // Determine the number of servers to display per page, based on screen size
     useEffect(() => {
@@ -56,6 +64,13 @@ const ServerList = ({port, version, country}) => {
 
                 const response = await fetch(`/api/servers?${queryParams.toString()}`)
                 const data = await response.json()
+
+                // reset page number if the server filters are modified from its previous state
+                const changedFilter = port !== previousFilter.port || version !== previousFilter.version || country !== previousFilter.country
+                if (changedFilter) {
+                    handlePageChange(1)                    
+                    setPreviousFilter({port, version, country})
+                }
                 setServers(data.online_servers)
                 setServerCount(data.total)
                 setTotalPages(data.totalPages)
@@ -70,6 +85,11 @@ const ServerList = ({port, version, country}) => {
         fetchServers()
     }, [page, limit, port, version, country])
 
+    function handlePageChange(newPage) {
+        setPage(newPage)
+        router.replace(`/?page=${newPage}`, {scroll: false})
+    }
+
     if (loading) return <p className="text-center text-lg">Fetching Servers...</p>
 
     return (
@@ -82,14 +102,16 @@ const ServerList = ({port, version, country}) => {
 
             <div className="flex justify-center mt-4 space-x-4">
                 <button className="px-4 py-2 bg-blue-500 rounded disabled:opacity-50"
-                    onClick={() => setPage((prev) => Math.max(prev - 1, 1))}
+                    // onClick={() => setPage((prev) => Math.max(prev - 1, 1))}
+                    onClick={() => handlePageChange(Math.max(page - 1, 1))}
                     disabled={page === 1}
                 >
                     Previous
                 </button>
                 <span className="px-4 py-2 text-white">{page} / {totalPages}</span>
                 <button className="px-4 py-2 bg-blue-500 rounded disabled:opacity-50"
-                    onClick={() => setPage((prev) => Math.min(prev + 1, totalPages))}
+                    // onClick={() => setPage((prev) => Math.min(prev + 1, totalPages))}
+                    onClick={() => handlePageChange(Math.min(page + 1, totalPages))}
                     disabled={page === totalPages}
                 >
                     Next

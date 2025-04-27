@@ -26,13 +26,9 @@ look through the active_servers list and then update active players online list 
 
 *** Website ***
 - adjust the number of server cards and the size of them depending on the size of the user's screen. So a computer would
-show more per page
-- When looking for version, sql query should include "LIKE" and then include the main release version, because there's
-so many versions. We simplifiy to 1.21.x for example. example: we are looking for version 1.21.4, We select 1.21 and
-1.21.4 should be included by using the LIKE clause in SQL
-Example: SELECT * FROM online_servers WHERE version LIKE '1.21.%';
+show more per page (WIP, needs tweaking but basic function works)
 
-
-- truncate the dropdown for countries and list all possible countries even if there's no existing servers in that country
+- When no servers exist for the selected filter, show something that sends that message to the user
 - set a state variable that keeps track of the current page. Reset to first page if any of the filters are modified
-- reset to first page when filters are changed
+- when loading server cards, populate empty cards with a loading animation so when you're loading new cards it doesn't
+quickly go from a black page to a populated page of white cards, it's too sharp of a contrast and hard on the eyes
