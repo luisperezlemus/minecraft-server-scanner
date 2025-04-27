@@ -91,8 +91,8 @@ const ServerList = ({port, version, country}) => {
     }
 
     if (loading) return <p className="text-center text-lg">Fetching Servers...</p>
-
-    return (
+    else if (servers.length === 0) return <p className="text-center text-xl">No servers found</p>
+    else return (
         <div className="p-4 flex flex-col items-center">
             <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
                 {servers.map((server, index) => (
