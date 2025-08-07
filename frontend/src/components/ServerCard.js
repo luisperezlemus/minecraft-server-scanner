@@ -7,7 +7,7 @@ const ServerCard = ({ server }) => {
     const router = useRouter()
 
     return (
-        <div className="border p-3 rounded-lg shadow-md bg-white max-w-xs cursor-pointer hover:shadow-lg transition"
+        <div className="border p-3 rounded-lg shadow-md bg-white w-full cursor-pointer hover:shadow-lg transition"
               onClick={() => router.push(`/server/${server.ip_address}:${server.port}`)}>
             {/* <h2 className="text-lg font-bold text-black">{server.ip_address}:{server.port}</h2> */}
             <h2 className="text-lg truncate font-bold text-black">{server.motd}</h2>

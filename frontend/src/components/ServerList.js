@@ -4,6 +4,7 @@ import {useEffect, useState} from "react"
 import {useRouter, useSearchParams} from "next/navigation"
 
 import ServerCard from "./ServerCard"
+import EmptyServerCard from "./EmptyServerCard"
 
 const ServerList = ({port, version, country}) => {
     const router = useRouter()
@@ -79,7 +80,7 @@ const ServerList = ({port, version, country}) => {
                 console.error(error)
             }
             finally {
-                setLoading(false)
+                setLoading(false) // TODO: CHANGE BACK TO FALSE
             }
         }
         fetchServers()
@@ -90,21 +91,38 @@ const ServerList = ({port, version, country}) => {
         router.replace(`/?page=${newPage}`, {scroll: false})
     }
 
-    if (loading) return <p className="text-center text-lg">Fetching Servers...</p>
-    else if (servers.length === 0) return <p className="text-center text-xl">No servers found</p>
+    // TODO: add empty cards while loading servers
+    // if (loading) {
+    //     return (
+    //         <div className="p-4 flex flex-col items-center">
+    //             <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+    //                 {Array.from({length: limit}).map((_, index) => (
+    //                     <EmptyServerCard key={index} />
+    //                 ))}
+    //             </div>
+    //         </div>
+    //     )
+    // }
+    if (servers.length === 0 && !loading) return <p className="text-center text-xl">No servers found</p>
     else return (
-        <div className="p-4 flex flex-col items-center">
+        <div className="p-4"> 
             <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
-                {servers.map((server, index) => (
-                    <ServerCard key={index} server={server} />
-                ))}
+                {loading ?
+                    Array.from({length: limit}).map((_, index) => (
+                        <EmptyServerCard key={index} />
+                    ))
+                :
+                    servers.map((server, index) => (
+                        <ServerCard key={index} server={server} />
+                ))
+                }
             </div>
 
             <div className="flex justify-center mt-4 space-x-4">
                 <button className="px-4 py-2 bg-blue-500 rounded disabled:opacity-50"
                     // onClick={() => setPage((prev) => Math.max(prev - 1, 1))}
                     onClick={() => handlePageChange(Math.max(page - 1, 1))}
-                    disabled={page === 1}
+                    disabled={page === 1 || loading}
                 >
                     Previous
                 </button>
@@ -112,7 +130,7 @@ const ServerList = ({port, version, country}) => {
                 <button className="px-4 py-2 bg-blue-500 rounded disabled:opacity-50"
                     // onClick={() => setPage((prev) => Math.min(prev + 1, totalPages))}
                     onClick={() => handlePageChange(Math.min(page + 1, totalPages))}
-                    disabled={page === totalPages}
+                    disabled={page === totalPages || loading}
                 >
                     Next
                 </button> 
