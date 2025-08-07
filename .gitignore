@@ -185,3 +185,8 @@ scan_db.db
 /node_modules
 /scanner/ip_ranges
 /scanner/temp
+
+/frontend/eslint.config.mjs
+/frontend/next.config.mjs
+/frontend/postcss.config.mjs
+/frontend/tailwind.config.mjs
